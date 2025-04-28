@@ -20,38 +20,43 @@ The dataset (`dataset_sales.csv`) contains the following fields:
 
 # **Key Performance Metrics Evaluated**
 1. **Engagement Metrics**
-Click-Through Rate (CTR)
+
+
+**Click-Through Rate (CTR)**
 Measures ad engagement.
 
 Formula:
 CTR = (Clicks / Impressions) * 100
 
-Conversion Rate
+**Conversion Rate**
 Measures effectiveness in driving actions.
 
 Formula:
 Conversion Rate = (Conversions / Clicks) * 100
 
+
 2. **Financial Metrics**
-Return on Investment (ROI)
+
+
+**Return on Investment (ROI)**
 Measures profitability.
 
 Formula:
 ROI = ((Revenue - Cost) / Cost) * 100
 
-Cost Per Click (CPC)
+**Cost Per Click (CPC)**
 Measures cost efficiency per engagement.
 
 Formula:
 CPC = Cost / Clicks
 
-Cost Per Conversion
+**Cost Per Conversion**
 Measures cost efficiency per sale.
 
 Formula:
 Cost Per Conversion = Cost / Conversions
 
-Revenue Per Conversion
+**Revenue Per Conversion**
 Measures average revenue per sale.
 
 Formula:
