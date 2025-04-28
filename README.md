@@ -18,52 +18,44 @@ The dataset (`dataset_sales.csv`) contains the following fields:
 
 ---
 
-## **Key Performance Metrics Evaluated**  
+# **Key Performance Metrics Evaluated**
+1. **Engagement Metrics**
+Click-Through Rate (CTR)
+Measures ad engagement.
 
-### **1. Engagement Metrics**  
-- **Click-Through Rate (CTR)**  
-  - Measures ad engagement  
-  - Formula:  
-    \[
-    CTR = \left( \frac{\text{Clicks}}{\text{Impressions}} \right) \times 100
-    \]  
+Formula:
+CTR = (Clicks / Impressions) * 100
 
-- **Conversion Rate**  
-  - Measures effectiveness in driving actions  
-  - Formula:  
-    \[
-    \text{Conversion Rate} = \left( \frac{\text{Conversions}}{\text{Clicks}} \right) \times 100
-    \]  
+Conversion Rate
+Measures effectiveness in driving actions.
 
-### **2. Financial Metrics**  
-- **Return on Investment (ROI)**  
-  - Measures profitability  
-  - Formula:  
-    \[
-    ROI = \left( \frac{\text{Revenue} - \text{Cost}}{\text{Cost}} \right) \times 100
-    \]  
+Formula:
+Conversion Rate = (Conversions / Clicks) * 100
 
-- **Cost Per Click (CPC)**  
-  - Measures cost efficiency per engagement  
-  - Formula:  
-    \[
-    CPC = \frac{\text{Cost}}{\text{Clicks}}
-    \]  
+2. **Financial Metrics**
+Return on Investment (ROI)
+Measures profitability.
 
-- **Cost Per Conversion**  
-  - Measures cost efficiency per sale  
-  - Formula:  
-    \[
-    \text{Cost Per Conversion} = \frac{\text{Cost}}{\text{Conversions}}
-    \]  
+Formula:
+ROI = ((Revenue - Cost) / Cost) * 100
 
-- **Revenue Per Conversion**  
-  - Measures average revenue per sale  
-  - Formula:  
-    \[
-    \text{Revenue Per Conversion} = \frac{\text{Revenue}}{\text{Conversions}}
-    \]  
+Cost Per Click (CPC)
+Measures cost efficiency per engagement.
 
+Formula:
+CPC = Cost / Clicks
+
+Cost Per Conversion
+Measures cost efficiency per sale.
+
+Formula:
+Cost Per Conversion = Cost / Conversions
+
+Revenue Per Conversion
+Measures average revenue per sale.
+
+Formula:
+Revenue Per Conversion = Revenue / Conversions
 ---
 
 ## **Analysis Approach**  
@@ -111,6 +103,7 @@ The dataset (`dataset_sales.csv`) contains the following fields:
 1. **`dataset_sales.csv`** – Raw dataset of 1,000 marketing campaigns  
 2. **`campaign_analysis.ipynb`** (or `.py`) – Code for data cleaning, analysis, and visualization  
 3. **`visualizations/`** – Charts & graphs (e.g., CTR by channel, ROI by promo type)  and SQL analysis
+4. **`analysis.sql`- Code For queries used to analyse certain metric mentioned above
 
 
 ---
