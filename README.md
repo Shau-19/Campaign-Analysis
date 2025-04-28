@@ -19,48 +19,40 @@ The dataset (`dataset_sales.csv`) contains the following fields:
 ---
 
 # **Key Performance Metrics Evaluated**
-1. **Engagement Metrics**
 
+## **1. Engagement Metrics**
 
-**Click-Through Rate (CTR)**
-Measures ad engagement.
+### **Click-Through Rate (CTR)**
+- Measures ad engagement.
+- **Formula**:  
+  `CTR = (Clicks / Impressions) * 100`
 
-Formula:
-CTR = (Clicks / Impressions) * 100
+### **Conversion Rate**
+- Measures effectiveness in driving actions.
+- **Formula**:  
+  `Conversion Rate = (Conversions / Clicks) * 100`
 
-**Conversion Rate**
-Measures effectiveness in driving actions.
+## **2. Financial Metrics**
 
-Formula:
-Conversion Rate = (Conversions / Clicks) * 100
+### **Return on Investment (ROI)**
+- Measures profitability.
+- **Formula**:  
+  `ROI = ((Revenue - Cost) / Cost) * 100`
 
+### **Cost Per Click (CPC)**
+- Measures cost efficiency per engagement.
+- **Formula**:  
+  `CPC = Cost / Clicks`
 
-2. **Financial Metrics**
+### **Cost Per Conversion**
+- Measures cost efficiency per sale.
+- **Formula**:  
+  `Cost Per Conversion = Cost / Conversions`
 
-
-**Return on Investment (ROI)**
-Measures profitability.
-
-Formula:
-ROI = ((Revenue - Cost) / Cost) * 100
-
-**Cost Per Click (CPC)**
-Measures cost efficiency per engagement.
-
-Formula:
-CPC = Cost / Clicks
-
-**Cost Per Conversion**
-Measures cost efficiency per sale.
-
-Formula:
-Cost Per Conversion = Cost / Conversions
-
-**Revenue Per Conversion**
-Measures average revenue per sale.
-
-Formula:
-Revenue Per Conversion = Revenue / Conversions
+### **Revenue Per Conversion**
+- Measures average revenue per sale.
+- **Formula**:  
+  `Revenue Per Conversion = Revenue / Conversions`
 ---
 
 ## **Analysis Approach**  
