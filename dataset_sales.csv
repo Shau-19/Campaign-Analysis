@@ -1,0 +1,1001 @@
+Campaign_ID,Campaign_Name,Product_Category,Channel,Promo_Type,Impressions,Clicks,Conversions,Cost,Revenue
+AD001,Yeezy Collection,Sneakers,Facebook,Seasonal Sale,116037,3377,639,11394.37,128822.6
+AD002,NMD Drop,Accessories,Instagram,Influencer Collab,102453,11272,2084,44042.5,334442.45
+AD003,NMD Restock,Sneakers,Email,Flash Sale,57515,6366,755,15593.87,179203.34
+AD004,Stan Smith Restock,Apparel,YouTube,Seasonal Sale,25270,1665,233,6636.65,38769.73
+AD005,Predator Drop,Apparel,YouTube,New Launch,230029,11997,1315,43968.96,206689.65
+AD006,Yeezy Restock,Apparel,YouTube,Seasonal Sale,71350,3305,558,11375.23,88595.0
+AD007,NMD Launch,Accessories,TikTok,Flash Sale,446345,6425,333,25364.46,67023.58
+AD008,Originals Collection,Accessories,Email,Limited Edition,104317,15323,1528,35888.84,314364.38
+AD009,Originals Launch,Accessories,TikTok,Seasonal Sale,155837,10489,2094,21690.02,482235.32
+AD010,NMD Edition,Sneakers,TikTok,Seasonal Sale,35756,508,64,1763.89,14052.27
+AD011,Yeezy Restock,Apparel,Google Ads,Limited Edition,201672,14734,3235,46649.02,738240.63
+AD012,Ultraboost Launch,Apparel,Facebook,New Launch,527287,54496,8888,172625.82,1851505.81
+AD013,Stan Smith Restock,Sneakers,Instagram,Flash Sale,195360,12385,4192,31367.43,679085.65
+AD014,Stan Smith Restock,Apparel,TikTok,Flash Sale,173145,13371,3027,29493.34,684509.88
+AD015,NMD Restock,Apparel,Instagram,Influencer Collab,172451,15998,2948,42370.02,684913.23
+AD016,Predator Edition,Apparel,Facebook,Flash Sale,113081,4998,965,18200.89,177612.85
+AD017,Predator Collection,Sneakers,Email,Limited Edition,105801,5522,675,16775.67,109198.62
+AD018,Ultraboost Edition,Accessories,Email,Flash Sale,122306,3002,386,11948.07,92246.87
+AD019,Ultraboost Collection,Apparel,Instagram,Flash Sale,194731,23254,2472,86183.54,383294.0
+AD020,Ultraboost Restock,Apparel,Facebook,Flash Sale,69089,6127,673,17618.24,118279.99
+AD021,NMD Drop,Sneakers,Facebook,Flash Sale,20814,1720,418,3944.0,88542.41
+AD022,Stan Smith Collection,Sneakers,YouTube,New Launch,97346,7771,2140,17259.03,356789.21
+AD023,Originals Collection,Apparel,YouTube,Seasonal Sale,129530,3165,260,11583.07,39385.65
+AD024,Predator Restock,Apparel,Email,Limited Edition,158579,10640,1848,31876.72,452945.79
+AD025,Originals Restock,Apparel,YouTube,Seasonal Sale,29253,1374,102,5364.12,21411.42
+AD026,NMD Collection,Sneakers,YouTube,Seasonal Sale,238688,3270,552,7175.55,98063.05
+AD027,Ultraboost Collection,Apparel,Google Ads,Limited Edition,286564,16274,3812,58860.1,929956.18
+AD028,Ultraboost Edition,Accessories,TikTok,Limited Edition,180350,1358,273,5233.5,50473.9
+AD029,NMD Launch,Apparel,Instagram,Flash Sale,231946,13369,1483,29694.84,288800.51
+AD030,Stan Smith Edition,Accessories,Email,Flash Sale,176180,20712,5019,71823.39,1114330.81
+AD031,NMD Collection,Apparel,Instagram,Limited Edition,184922,13611,2248,41276.33,486131.2
+AD032,Ultraboost Edition,Apparel,Email,Limited Edition,243327,21036,5052,50520.94,1242708.74
+AD033,NMD Edition,Apparel,Facebook,New Launch,185411,2671,400,8249.13,61138.4
+AD034,Yeezy Drop,Accessories,Instagram,Flash Sale,66871,5224,911,16050.03,207645.28
+AD035,Ultraboost Edition,Accessories,TikTok,Influencer Collab,285019,21181,1462,73693.15,222586.51
+AD036,Yeezy Collection,Apparel,TikTok,Influencer Collab,29048,1674,348,6347.26,73054.94
+AD037,Predator Launch,Apparel,Instagram,Influencer Collab,426415,37932,4118,78843.24,667444.0
+AD038,Predator Launch,Sneakers,Facebook,Seasonal Sale,238359,27098,3940,73503.89,914732.42
+AD039,Ultraboost Edition,Apparel,Facebook,Influencer Collab,271382,7223,1647,26412.75,347808.28
+AD040,NMD Restock,Apparel,Instagram,Seasonal Sale,152818,9201,1156,22927.89,254356.04
+AD041,Originals Drop,Accessories,Facebook,Limited Edition,151981,2806,141,7870.13,34533.86
+AD042,Predator Drop,Accessories,YouTube,Limited Edition,59867,2091,345,7197.95,63993.07
+AD043,Stan Smith Collection,Accessories,YouTube,Limited Edition,63792,1268,87,2782.08,17976.83
+AD044,Originals Collection,Sneakers,Google Ads,Influencer Collab,230815,14656,4271,33898.07,1051490.0
+AD045,Ultraboost Drop,Sneakers,YouTube,Influencer Collab,290579,6590,1148,24879.38,173470.1
+AD046,Stan Smith Edition,Accessories,YouTube,New Launch,116925,5415,312,13032.96,68022.48
+AD047,Ultraboost Restock,Apparel,Email,New Launch,209642,27711,5543,58953.2,865796.69
+AD048,NMD Edition,Accessories,YouTube,Flash Sale,239637,13939,1923,34462.89,459647.54
+AD049,Stan Smith Collection,Apparel,Facebook,Flash Sale,84470,1365,167,3333.84,38678.08
+AD050,Ultraboost Edition,Sneakers,Facebook,Seasonal Sale,23306,422,145,1678.12,23056.03
+AD051,Originals Collection,Sneakers,YouTube,Influencer Collab,258651,19043,4577,38351.4,880931.78
+AD052,Originals Collection,Apparel,YouTube,Limited Edition,258192,13831,3436,49863.59,653391.12
+AD053,Stan Smith Edition,Accessories,Google Ads,Seasonal Sale,164758,2267,190,5202.47,34669.8
+AD054,Originals Launch,Sneakers,YouTube,Limited Edition,143624,10000,2696,32996.03,426657.48
+AD055,Originals Restock,Sneakers,YouTube,Influencer Collab,98325,2528,381,5206.58,74745.29
+AD056,Ultraboost Collection,Accessories,TikTok,Flash Sale,91672,1746,296,4491.57,65722.96
+AD057,Yeezy Collection,Accessories,Email,Flash Sale,24769,3063,675,7746.68,139876.48
+AD058,NMD Restock,Accessories,Facebook,Flash Sale,187978,13760,3134,35057.37,500178.04
+AD059,Originals Restock,Apparel,Email,Limited Edition,259889,9629,1369,26227.43,300088.53
+AD060,Ultraboost Collection,Sneakers,YouTube,Influencer Collab,61290,1219,377,2588.12,72145.07
+AD061,Originals Restock,Apparel,Instagram,Flash Sale,292074,5961,662,15892.22,155041.18
+AD062,Stan Smith Launch,Apparel,Email,New Launch,943725,83297,19362,284126.27,4129125.99
+AD063,NMD Launch,Accessories,TikTok,New Launch,939911,27202,2960,104990.23,594161.42
+AD064,Stan Smith Restock,Sneakers,Email,New Launch,187125,15233,4234,39148.42,869149.08
+AD065,Predator Restock,Sneakers,Instagram,Seasonal Sale,140385,12270,2531,24820.63,557067.87
+AD066,Stan Smith Collection,Apparel,Instagram,Limited Edition,35843,743,97,2346.09,22542.93
+AD067,Originals Drop,Apparel,Google Ads,New Launch,47844,1004,51,2474.02,8543.0
+AD068,Originals Launch,Accessories,Google Ads,Seasonal Sale,157683,10261,715,30813.42,120884.27
+AD069,Originals Collection,Sneakers,Instagram,Limited Edition,186017,5083,997,12411.36,217084.14
+AD070,NMD Drop,Sneakers,Google Ads,Limited Edition,104680,2164,408,7602.76,73945.46
+AD071,Predator Restock,Accessories,Facebook,Flash Sale,214030,16485,2246,52130.15,351506.16
+AD072,Predator Restock,Apparel,Google Ads,Seasonal Sale,110839,6670,1228,16651.31,241380.74
+AD073,Originals Drop,Accessories,Google Ads,Seasonal Sale,152878,1159,283,2567.02,59843.56
+AD074,NMD Launch,Accessories,TikTok,Flash Sale,349189,7703,1008,16952.96,225188.83
+AD075,Yeezy Restock,Apparel,Instagram,Influencer Collab,173342,9443,2132,31751.32,345538.85
+AD076,NMD Edition,Accessories,TikTok,Limited Edition,63193,1844,325,5008.47,52344.21
+AD077,Ultraboost Collection,Apparel,Email,New Launch,116182,13459,876,30513.68,206508.45
+AD078,Stan Smith Restock,Apparel,Instagram,Influencer Collab,93814,3270,751,11912.19,151189.74
+AD079,NMD Launch,Accessories,Google Ads,Limited Edition,596805,7981,1304,21056.4,282755.24
+AD080,Yeezy Edition,Apparel,Instagram,Flash Sale,149568,3073,203,11054.03,40060.54
+AD081,Stan Smith Launch,Sneakers,Email,Flash Sale,405702,28120,6842,77632.83,1303722.0
+AD082,Stan Smith Drop,Apparel,Instagram,Limited Edition,19174,2213,201,8631.14,33023.25
+AD083,Predator Edition,Apparel,Facebook,Flash Sale,141808,15945,2828,39705.52,513501.01
+AD084,Ultraboost Collection,Sneakers,Instagram,New Launch,21278,1408,161,5302.41,33813.15
+AD085,NMD Restock,Sneakers,Google Ads,Influencer Collab,282584,8352,1688,27391.29,266001.43
+AD086,NMD Launch,Accessories,Email,Flash Sale,599850,68569,8955,229115.68,1425589.24
+AD087,Ultraboost Launch,Apparel,Instagram,Flash Sale,977866,87599,11587,325878.93,1894301.52
+AD088,Yeezy Restock,Accessories,Instagram,Flash Sale,49859,2986,642,10959.16,155873.29
+AD089,Stan Smith Restock,Sneakers,Google Ads,Seasonal Sale,250976,5489,1655,11248.11,389015.06
+AD090,Ultraboost Launch,Sneakers,Facebook,Influencer Collab,770344,26443,4128,76338.68,672151.19
+AD091,Originals Launch,Sneakers,Email,Flash Sale,313220,16195,1974,60353.33,423069.36
+AD092,Originals Edition,Sneakers,Google Ads,New Launch,71376,1867,522,6926.4,98253.8
+AD093,Ultraboost Drop,Sneakers,TikTok,Influencer Collab,11634,364,39,755.16,8557.69
+AD094,Stan Smith Edition,Sneakers,YouTube,Flash Sale,240927,11543,1887,31671.25,450620.33
+AD095,Yeezy Restock,Accessories,Instagram,Influencer Collab,153205,16404,3222,34246.43,793079.87
+AD096,Yeezy Collection,Apparel,TikTok,Limited Edition,113756,5367,625,14860.76,154182.36
+AD097,Yeezy Drop,Accessories,YouTube,Limited Edition,56175,4408,534,14437.28,119745.2
+AD098,Ultraboost Collection,Apparel,YouTube,Limited Edition,171153,6125,1272,20932.87,222318.09
+AD099,Originals Edition,Sneakers,Instagram,Influencer Collab,110635,11365,2249,33541.13,484043.82
+AD100,Originals Launch,Accessories,Instagram,Seasonal Sale,813256,34539,6445,111050.9,1523999.45
+AD101,Originals Drop,Sneakers,TikTok,Flash Sale,95516,1250,349,3916.58,68396.01
+AD102,Ultraboost Edition,Apparel,Email,Influencer Collab,22432,2421,319,8798.59,55707.01
+AD103,Originals Drop,Apparel,YouTube,Flash Sale,23082,1642,204,5115.34,46791.08
+AD104,NMD Drop,Apparel,TikTok,Influencer Collab,180765,14238,2675,55290.4,408754.69
+AD105,Stan Smith Drop,Sneakers,TikTok,Influencer Collab,281420,17643,2946,58821.49,585491.22
+AD106,Originals Collection,Accessories,TikTok,Limited Edition,190244,13094,1779,33134.05,305934.27
+AD107,NMD Edition,Apparel,Email,Seasonal Sale,101403,13683,2992,51621.67,718041.11
+AD108,Predator Collection,Accessories,TikTok,Flash Sale,228245,7940,696,26549.35,119366.17
+AD109,Ultraboost Drop,Sneakers,YouTube,Influencer Collab,92423,3912,1074,10309.29,172317.78
+AD110,NMD Drop,Accessories,YouTube,Limited Edition,55606,4101,555,12369.07,127503.77
+AD111,Predator Drop,Apparel,Google Ads,Flash Sale,73387,5818,323,19620.08,60452.7
+AD112,Stan Smith Launch,Accessories,Instagram,Influencer Collab,196453,4586,489,12775.79,82412.19
+AD113,Yeezy Drop,Apparel,YouTube,Flash Sale,290491,8954,2135,21174.37,490558.63
+AD114,Ultraboost Collection,Accessories,Instagram,Seasonal Sale,135235,4328,659,15531.31,160982.32
+AD115,NMD Restock,Accessories,YouTube,Limited Edition,108193,6967,1472,26251.98,269210.72
+AD116,NMD Restock,Apparel,Google Ads,Influencer Collab,265631,10390,675,31448.13,158528.66
+AD117,Ultraboost Edition,Apparel,Email,Flash Sale,274580,10127,1522,31290.91,236118.52
+AD118,Originals Launch,Apparel,Google Ads,Flash Sale,558332,28562,3448,96049.53,659528.48
+AD119,NMD Edition,Accessories,YouTube,Influencer Collab,263614,19427,1439,45869.38,310567.79
+AD120,Originals Collection,Apparel,Facebook,Limited Edition,81210,2634,190,5755.83,39609.91
+AD121,NMD Drop,Sneakers,Email,Seasonal Sale,145910,13170,3737,31636.88,670223.12
+AD122,Originals Collection,Accessories,TikTok,Flash Sale,106274,3787,891,13062.82,179820.05
+AD123,NMD Drop,Sneakers,YouTube,New Launch,218578,8879,2069,25499.36,494220.45
+AD124,Ultraboost Collection,Apparel,YouTube,Influencer Collab,203717,10455,796,22716.89,162253.8
+AD125,Predator Collection,Sneakers,TikTok,Influencer Collab,118590,2202,647,6091.97,148436.04
+AD126,Originals Drop,Apparel,TikTok,Influencer Collab,233301,11310,951,30494.3,202203.9
+AD127,Originals Drop,Accessories,Google Ads,Flash Sale,227541,16824,2946,51033.65,592910.19
+AD128,NMD Restock,Sneakers,Google Ads,Limited Edition,23506,1566,477,4454.33,84167.79
+AD129,Predator Restock,Accessories,Google Ads,Limited Edition,216654,8939,1933,19468.99,447631.03
+AD130,Yeezy Restock,Accessories,Email,New Launch,95400,12383,1469,38655.68,360816.23
+AD131,NMD Launch,Sneakers,TikTok,New Launch,749981,9390,1044,19504.92,237965.76
+AD132,Yeezy Launch,Accessories,TikTok,Influencer Collab,595360,9012,1925,34711.97,393145.5
+AD133,Ultraboost Launch,Apparel,TikTok,Limited Edition,820462,40839,7115,86594.92,1705208.47
+AD134,Stan Smith Restock,Sneakers,YouTube,New Launch,236612,16835,2885,56688.89,691369.2
+AD135,Stan Smith Edition,Sneakers,YouTube,Influencer Collab,68530,5466,912,11829.27,199285.34
+AD136,Yeezy Drop,Sneakers,Google Ads,Limited Edition,264197,6708,1429,22554.05,357067.01
+AD137,Stan Smith Restock,Apparel,TikTok,Seasonal Sale,169792,13127,2363,38026.09,401364.3
+AD138,NMD Collection,Accessories,YouTube,New Launch,187014,10285,2257,36275.05,529717.17
+AD139,Stan Smith Launch,Sneakers,YouTube,Flash Sale,982371,68901,23087,274238.3,4158418.43
+AD140,NMD Edition,Accessories,Facebook,Limited Edition,236101,13691,1705,46260.22,292074.75
+AD141,Stan Smith Restock,Accessories,Facebook,Flash Sale,117959,1660,277,5517.44,54231.42
+AD142,Originals Restock,Apparel,TikTok,Influencer Collab,125504,4486,489,10538.84,92688.31
+AD143,Originals Edition,Apparel,Instagram,Influencer Collab,187190,8704,592,34757.95,137949.47
+AD144,NMD Collection,Accessories,Facebook,New Launch,50279,1488,318,4354.58,48498.63
+AD145,Stan Smith Edition,Accessories,Facebook,Seasonal Sale,207635,12220,2396,42196.8,426274.34
+AD146,Stan Smith Restock,Accessories,TikTok,Seasonal Sale,153435,9511,1832,19045.4,290987.61
+AD147,Ultraboost Drop,Sneakers,TikTok,Limited Edition,43409,2124,691,7945.52,141940.02
+AD148,NMD Launch,Apparel,Google Ads,New Launch,706467,6373,1478,15089.91,324767.12
+AD149,Ultraboost Launch,Accessories,Email,New Launch,476332,32366,6754,101628.62,1163052.85
+AD150,Stan Smith Launch,Apparel,YouTube,Limited Edition,575787,21268,2844,63739.74,577782.48
+AD151,Originals Restock,Sneakers,Instagram,Influencer Collab,217890,7299,1516,17986.1,292533.81
+AD152,Predator Collection,Apparel,Facebook,Influencer Collab,38405,3741,291,14046.17,49457.04
+AD153,Ultraboost Restock,Sneakers,YouTube,Seasonal Sale,96242,4638,1322,11203.58,215585.5
+AD154,Originals Launch,Sneakers,Facebook,New Launch,898152,107228,23673,336896.23,5004586.91
+AD155,Yeezy Edition,Sneakers,Email,New Launch,218656,24910,7309,57737.32,1776196.39
+AD156,Yeezy Drop,Sneakers,Google Ads,Flash Sale,275137,19132,3059,71123.12,732951.83
+AD157,Predator Launch,Accessories,Google Ads,New Launch,745758,22777,2264,56930.84,383808.65
+AD158,NMD Edition,Sneakers,Email,Seasonal Sale,189361,9031,3023,23648.55,691758.37
+AD159,Yeezy Collection,Sneakers,YouTube,Influencer Collab,185934,2893,884,7347.36,149953.58
+AD160,Yeezy Launch,Sneakers,YouTube,Influencer Collab,273023,1594,510,4152.66,92494.0
+AD161,Predator Restock,Accessories,Google Ads,New Launch,65390,2940,267,9181.02,61780.01
+AD162,Stan Smith Collection,Accessories,Email,New Launch,42159,5921,1086,18390.26,212268.45
+AD163,Originals Restock,Accessories,Facebook,Flash Sale,161339,16583,3570,52330.13,706390.42
+AD164,Yeezy Restock,Apparel,Instagram,Limited Edition,271515,18155,1577,56407.65,359149.51
+AD165,Stan Smith Restock,Sneakers,Facebook,Flash Sale,294936,18086,6063,70839.91,947303.02
+AD166,Predator Collection,Apparel,Google Ads,Influencer Collab,160663,4641,298,11578.51,54544.62
+AD167,NMD Launch,Sneakers,Email,Limited Edition,727235,84915,14708,181228.95,3448346.13
+AD168,Yeezy Collection,Accessories,TikTok,Influencer Collab,190892,11092,2136,41353.07,357231.48
+AD169,NMD Restock,Accessories,Email,Influencer Collab,110129,14250,3205,40127.41,502340.71
+AD170,Originals Edition,Accessories,Instagram,Limited Edition,74567,6219,1218,22043.36,259009.14
+AD171,Predator Restock,Sneakers,Facebook,New Launch,166749,11721,2916,31576.71,667234.2
+AD172,Yeezy Drop,Apparel,Email,Limited Edition,148478,4918,445,15504.66,101655.3
+AD173,Predator Launch,Apparel,Google Ads,Limited Edition,590036,12010,2211,28838.71,537709.47
+AD174,Predator Collection,Accessories,Instagram,Seasonal Sale,109043,7297,1178,18156.79,254787.48
+AD175,Originals Edition,Sneakers,YouTube,New Launch,95268,4910,1062,15750.58,232611.66
+AD176,Stan Smith Launch,Accessories,Instagram,Influencer Collab,63709,5213,516,10511.31,90592.04
+AD177,Yeezy Drop,Apparel,Google Ads,New Launch,109623,3536,849,7084.86,184491.96
+AD178,Yeezy Restock,Apparel,Facebook,New Launch,84076,4748,309,15177.05,49600.76
+AD179,NMD Edition,Apparel,Google Ads,Limited Edition,177024,6733,722,16922.62,118266.33
+AD180,Stan Smith Edition,Sneakers,Facebook,New Launch,271870,22318,7781,70227.34,1511713.47
+AD181,Yeezy Edition,Sneakers,Instagram,Seasonal Sale,22339,1956,468,6914.3,86124.8
+AD182,Stan Smith Launch,Apparel,TikTok,New Launch,707363,16876,3664,58546.1,642631.36
+AD183,Predator Collection,Accessories,YouTube,Seasonal Sale,161914,7888,1734,26525.53,274197.63
+AD184,NMD Collection,Apparel,TikTok,Seasonal Sale,293308,21840,1480,50644.8,238464.77
+AD185,NMD Edition,Accessories,Email,Seasonal Sale,223069,11204,1237,31973.78,186109.28
+AD186,Stan Smith Edition,Sneakers,TikTok,New Launch,96728,6325,1207,15093.02,200392.83
+AD187,Stan Smith Collection,Sneakers,YouTube,Influencer Collab,68254,5302,1600,20334.81,315948.89
+AD188,Originals Collection,Apparel,Google Ads,Influencer Collab,161006,12187,2234,40890.43,522436.91
+AD189,NMD Restock,Accessories,Google Ads,Seasonal Sale,22256,1171,162,3129.12,28885.56
+AD190,Originals Collection,Apparel,Facebook,New Launch,164149,13301,2191,45998.52,414238.83
+AD191,Originals Restock,Sneakers,Google Ads,New Launch,227632,15201,1834,60613.36,289761.11
+AD192,Yeezy Launch,Sneakers,YouTube,New Launch,470373,23176,3091,68267.55,634134.3
+AD193,Originals Edition,Sneakers,YouTube,Flash Sale,269778,12085,1261,36401.66,193623.57
+AD194,Ultraboost Launch,Accessories,Facebook,Influencer Collab,819137,43052,10562,137173.15,2605682.67
+AD195,Ultraboost Launch,Apparel,Facebook,Influencer Collab,979437,75465,11188,275693.46,1973108.37
+AD196,NMD Collection,Apparel,Email,Flash Sale,130170,12764,1758,37230.49,362963.44
+AD197,Predator Restock,Accessories,Email,New Launch,185226,26940,6719,86026.38,1584078.65
+AD198,Ultraboost Restock,Apparel,Email,Influencer Collab,251796,28946,1500,93702.19,359116.32
+AD199,Stan Smith Edition,Apparel,Instagram,New Launch,139480,11695,640,40217.3,101838.81
+AD200,Predator Collection,Sneakers,Facebook,Flash Sale,187787,20465,4492,68975.11,897891.52
+AD201,NMD Drop,Apparel,Facebook,Seasonal Sale,125932,13655,2506,35489.95,564739.41
+AD202,Predator Collection,Apparel,TikTok,New Launch,101607,7338,1094,25105.09,210041.86
+AD203,Stan Smith Edition,Apparel,TikTok,New Launch,17894,545,91,1719.29,14633.16
+AD204,Predator Edition,Sneakers,YouTube,Limited Edition,229787,17417,1830,56454.6,409103.69
+AD205,Yeezy Collection,Accessories,Instagram,Limited Edition,131883,9120,800,22611.31,185103.19
+AD206,NMD Collection,Accessories,Google Ads,Flash Sale,169196,6214,632,15453.16,148757.07
+AD207,Predator Launch,Apparel,Google Ads,New Launch,881223,56945,7973,114992.84,1741146.42
+AD208,Predator Edition,Accessories,Facebook,Seasonal Sale,299675,32652,5263,108031.18,1246776.12
+AD209,Predator Drop,Apparel,Facebook,New Launch,189181,7338,681,24786.87,148128.33
+AD210,NMD Drop,Accessories,Facebook,New Launch,18584,1663,318,4251.29,68862.03
+AD211,Predator Launch,Sneakers,TikTok,Limited Edition,597806,40487,5542,157642.5,1004379.25
+AD212,Yeezy Restock,Apparel,TikTok,Influencer Collab,206414,15706,3149,47525.26,721281.03
+AD213,Predator Launch,Sneakers,Email,Flash Sale,451075,16324,4428,42663.9,870189.26
+AD214,Stan Smith Drop,Sneakers,Google Ads,Influencer Collab,27527,808,241,2787.37,42388.39
+AD215,NMD Launch,Accessories,YouTube,Flash Sale,990139,29650,6402,114331.8,1224367.87
+AD216,Predator Drop,Accessories,Facebook,New Launch,65234,7777,839,25122.96,145008.21
+AD217,NMD Launch,Accessories,YouTube,Flash Sale,121330,6080,1276,13979.92,311416.97
+AD218,Yeezy Collection,Sneakers,Instagram,Influencer Collab,149279,4250,1211,9901.22,237518.87
+AD219,Originals Drop,Apparel,Instagram,Limited Edition,77694,5163,437,11607.05,95739.47
+AD220,Stan Smith Launch,Apparel,Facebook,Seasonal Sale,360431,41169,6622,113101.46,1271014.63
+AD221,Yeezy Restock,Accessories,YouTube,Seasonal Sale,223641,17608,3117,45077.48,484832.08
+AD222,Yeezy Collection,Sneakers,TikTok,New Launch,140309,2283,553,5809.82,105221.29
+AD223,Predator Drop,Accessories,Instagram,Seasonal Sale,96400,6729,1211,22657.67,247883.56
+AD224,Originals Launch,Sneakers,Email,Influencer Collab,831634,58074,16662,225651.29,3363188.94
+AD225,Yeezy Collection,Sneakers,Email,Seasonal Sale,62064,7197,733,19369.28,170273.19
+AD226,NMD Launch,Apparel,Email,Influencer Collab,53016,6382,891,13590.9,153965.88
+AD227,Yeezy Drop,Apparel,YouTube,Seasonal Sale,87719,7002,1299,19311.51,299674.57
+AD228,Ultraboost Collection,Accessories,Facebook,Influencer Collab,207260,4019,668,13041.37,117455.02
+AD229,Ultraboost Restock,Sneakers,Instagram,Seasonal Sale,289047,31857,4171,110804.75,819866.87
+AD230,Ultraboost Drop,Sneakers,Facebook,Influencer Collab,72995,1062,178,2405.45,30914.39
+AD231,Originals Launch,Accessories,Instagram,Limited Edition,196497,19480,3359,44440.11,806149.86
+AD232,Originals Edition,Apparel,Email,Limited Edition,105853,12178,1121,27825.04,210577.93
+AD233,Originals Restock,Apparel,YouTube,Seasonal Sale,14732,469,55,1792.17,12801.04
+AD234,Predator Drop,Accessories,Google Ads,Limited Edition,261047,13905,2550,50971.36,500729.52
+AD235,NMD Collection,Accessories,YouTube,Flash Sale,106212,7363,1434,24031.76,311122.02
+AD236,NMD Edition,Sneakers,Instagram,Limited Edition,163880,15272,3743,42431.11,685495.05
+AD237,Predator Edition,Accessories,TikTok,New Launch,40189,2108,154,7399.59,37214.79
+AD238,Yeezy Edition,Sneakers,Google Ads,Limited Edition,19946,916,168,1956.61,41418.37
+AD239,Predator Drop,Accessories,Google Ads,Seasonal Sale,186973,5800,446,14102.67,106291.99
+AD240,Ultraboost Launch,Apparel,Facebook,Influencer Collab,86964,1050,203,2196.26,35063.93
+AD241,NMD Collection,Apparel,YouTube,Seasonal Sale,188242,11565,2288,45615.08,522188.98
+AD242,Ultraboost Collection,Sneakers,Email,Flash Sale,245416,13339,2186,39796.21,406491.92
+AD243,Predator Collection,Accessories,Facebook,Seasonal Sale,97368,946,67,2185.75,15922.14
+AD244,Predator Drop,Accessories,YouTube,Flash Sale,35089,566,37,2097.01,7641.99
+AD245,Originals Edition,Accessories,Google Ads,Influencer Collab,209025,13642,973,35559.14,190454.01
+AD246,Predator Edition,Apparel,Google Ads,New Launch,91214,481,67,1796.73,11216.98
+AD247,Predator Restock,Accessories,Instagram,Influencer Collab,131135,13224,2156,37950.31,434800.57
+AD248,Stan Smith Drop,Apparel,Facebook,Influencer Collab,274360,31145,7621,106466.71,1520025.39
+AD249,NMD Launch,Sneakers,Email,Influencer Collab,220074,15607,2857,46045.33,624780.94
+AD250,Predator Restock,Apparel,Email,Seasonal Sale,209680,24983,5297,50274.06,1120604.27
+AD251,Ultraboost Edition,Apparel,Instagram,Influencer Collab,21409,877,118,2691.94,20534.39
+AD252,Predator Launch,Accessories,Facebook,Flash Sale,95782,7649,1579,30400.04,345892.3
+AD253,Originals Edition,Accessories,TikTok,Influencer Collab,197246,2496,288,6015.21,60968.18
+AD254,Originals Drop,Sneakers,TikTok,Influencer Collab,170463,3677,428,12005.33,64560.62
+AD255,Predator Edition,Accessories,Instagram,Limited Edition,37165,1089,97,2259.3,21659.65
+AD256,Yeezy Collection,Sneakers,TikTok,Seasonal Sale,166172,1404,151,5199.92,34430.24
+AD257,Originals Drop,Apparel,Email,Seasonal Sale,227303,5395,555,12144.49,87591.52
+AD258,Yeezy Edition,Apparel,Google Ads,Influencer Collab,255524,10632,1088,22593.37,176327.28
+AD259,NMD Restock,Apparel,Email,Influencer Collab,29824,947,174,2683.13,40237.69
+AD260,Ultraboost Drop,Accessories,Google Ads,Influencer Collab,46476,2367,309,6758.22,55444.37
+AD261,Originals Edition,Sneakers,Instagram,Flash Sale,240798,20945,3908,67595.93,914371.75
+AD262,Originals Drop,Apparel,YouTube,Seasonal Sale,78576,3490,699,12998.03,155111.34
+AD263,NMD Edition,Sneakers,Email,Influencer Collab,150785,9470,1655,21254.69,260030.7
+AD264,Stan Smith Drop,Accessories,Facebook,Seasonal Sale,219025,18222,1981,50973.67,377655.52
+AD265,Ultraboost Edition,Accessories,Instagram,Influencer Collab,169449,15827,3579,42597.69,840129.54
+AD266,Ultraboost Drop,Apparel,YouTube,Flash Sale,214244,12578,1002,35452.05,151392.25
+AD267,Yeezy Restock,Sneakers,Email,New Launch,224990,31515,5158,83271.08,1254178.37
+AD268,Stan Smith Edition,Apparel,Google Ads,Seasonal Sale,106036,2887,613,6034.79,102842.56
+AD269,Originals Restock,Accessories,TikTok,Flash Sale,252462,17248,943,46247.08,228261.55
+AD270,Stan Smith Drop,Accessories,Facebook,Limited Edition,273959,2213,485,5398.5,91510.08
+AD271,Stan Smith Restock,Sneakers,Email,Limited Edition,86716,10454,3306,37080.86,626520.29
+AD272,Originals Drop,Sneakers,Instagram,Limited Edition,106190,2636,703,7596.27,113699.53
+AD273,Ultraboost Collection,Apparel,YouTube,Influencer Collab,197966,6481,1590,13124.85,319750.8
+AD274,Originals Restock,Accessories,TikTok,Flash Sale,12602,776,72,1881.46,17781.02
+AD275,Ultraboost Collection,Apparel,Instagram,Influencer Collab,205213,18866,4401,74560.81,665437.07
+AD276,Ultraboost Restock,Sneakers,Email,Influencer Collab,219054,18557,5267,66142.02,1089929.96
+AD277,Yeezy Drop,Apparel,Google Ads,New Launch,299825,7744,1035,18323.1,215958.44
+AD278,Originals Edition,Apparel,Email,Flash Sale,64602,9184,1047,23939.88,234914.66
+AD279,Ultraboost Restock,Sneakers,Email,Flash Sale,157633,21567,2975,76876.8,471224.2
+AD280,Stan Smith Edition,Apparel,TikTok,Seasonal Sale,288736,13476,693,45500.34,132296.98
+AD281,Predator Restock,Sneakers,Instagram,Limited Edition,70570,5197,775,13484.71,189583.6
+AD282,Predator Restock,Apparel,TikTok,Limited Edition,89568,7115,1159,24683.38,196348.16
+AD283,Stan Smith Edition,Apparel,Email,Flash Sale,151645,10034,2080,34584.36,514540.3
+AD284,Predator Edition,Sneakers,Instagram,Limited Edition,189573,7940,2099,15955.15,460098.33
+AD285,Yeezy Edition,Accessories,Instagram,Limited Edition,22305,2364,260,8668.66,51281.42
+AD286,Yeezy Restock,Apparel,TikTok,Limited Edition,243511,18696,1309,46079.92,240185.23
+AD287,Yeezy Collection,Sneakers,Instagram,Flash Sale,198220,20018,2667,44940.65,490427.56
+AD288,Ultraboost Drop,Apparel,Email,Limited Edition,185153,10910,1796,36220.24,358262.55
+AD289,NMD Launch,Sneakers,Email,Seasonal Sale,195310,26332,2669,78147.19,496542.53
+AD290,Yeezy Restock,Apparel,Facebook,Flash Sale,196072,17997,3076,53505.59,726916.98
+AD291,Originals Launch,Apparel,YouTube,Influencer Collab,816805,49997,7866,193946.02,1700832.76
+AD292,Stan Smith Drop,Accessories,Email,Seasonal Sale,242647,20512,4631,54396.53,703880.74
+AD293,Stan Smith Collection,Sneakers,Google Ads,New Launch,78406,5736,582,14850.12,137288.41
+AD294,Stan Smith Drop,Sneakers,Facebook,Limited Edition,191156,7357,2295,28382.69,487306.54
+AD295,Ultraboost Restock,Apparel,Google Ads,Influencer Collab,94456,1178,178,2992.09,37692.08
+AD296,Originals Collection,Accessories,TikTok,Influencer Collab,165825,10154,2223,26445.16,407381.48
+AD297,Stan Smith Launch,Accessories,Facebook,Influencer Collab,764700,60038,3984,131691.45,864055.5
+AD298,Originals Launch,Accessories,Facebook,New Launch,821631,22443,2550,46183.28,459923.98
+AD299,NMD Edition,Sneakers,Email,Influencer Collab,101324,4083,472,14962.46,97716.44
+AD300,Yeezy Edition,Apparel,YouTube,New Launch,71631,2054,386,6239.84,76700.08
+AD301,Yeezy Collection,Accessories,YouTube,New Launch,73883,2351,533,5361.43,105561.94
+AD302,Originals Drop,Accessories,YouTube,Seasonal Sale,20789,1217,139,4611.51,27777.53
+AD303,Stan Smith Collection,Apparel,Google Ads,New Launch,49626,413,96,949.5,21117.92
+AD304,Yeezy Restock,Sneakers,Google Ads,Flash Sale,226408,13141,3195,47562.95,773687.13
+AD305,Originals Collection,Apparel,Instagram,Limited Edition,159592,17626,2743,57037.88,589073.82
+AD306,Ultraboost Collection,Accessories,Email,Influencer Collab,17462,2433,437,8121.49,73951.86
+AD307,NMD Launch,Apparel,Facebook,Limited Edition,101922,8725,664,23174.78,150391.57
+AD308,Stan Smith Drop,Sneakers,YouTube,Influencer Collab,276789,14750,4501,29671.38,990992.3
+AD309,Stan Smith Collection,Accessories,Email,New Launch,133370,9833,777,36309.97,133747.5
+AD310,Predator Drop,Sneakers,Instagram,Influencer Collab,122228,8038,2516,19548.94,514962.56
+AD311,Yeezy Launch,Sneakers,Facebook,New Launch,660480,5570,670,21512.04,164123.24
+AD312,NMD Launch,Apparel,Email,Limited Edition,964269,63076,7194,233147.83,1724534.57
+AD313,Predator Collection,Apparel,Instagram,Seasonal Sale,295830,22327,5055,72740.57,1068405.97
+AD314,Stan Smith Restock,Accessories,Email,New Launch,26410,3599,534,10349.63,125435.69
+AD315,Yeezy Collection,Accessories,Facebook,Seasonal Sale,127503,13363,2442,46999.85,416361.23
+AD316,NMD Edition,Apparel,Email,Limited Edition,113741,6108,1149,23392.48,234190.08
+AD317,Yeezy Restock,Accessories,YouTube,Seasonal Sale,213526,13002,2606,35751.78,469588.3
+AD318,Originals Collection,Sneakers,YouTube,Flash Sale,102651,2220,621,8230.17,111686.0
+AD319,NMD Drop,Sneakers,YouTube,Influencer Collab,84294,1866,501,4627.7,78584.56
+AD320,Predator Restock,Accessories,Google Ads,Flash Sale,48630,2679,319,6977.38,62752.91
+AD321,Predator Collection,Sneakers,Instagram,Limited Edition,15545,363,108,767.98,20924.22
+AD322,Yeezy Collection,Apparel,YouTube,Limited Edition,259488,11947,1175,27677.73,254659.55
+AD323,Yeezy Restock,Sneakers,TikTok,Seasonal Sale,78094,5012,979,17492.36,237614.26
+AD324,Stan Smith Collection,Apparel,Google Ads,Influencer Collab,22442,1486,371,3442.22,89211.64
+AD325,Originals Collection,Apparel,Facebook,Seasonal Sale,185555,20888,2465,54634.78,429911.07
+AD326,Stan Smith Drop,Accessories,YouTube,Influencer Collab,199508,4426,585,17546.72,134315.42
+AD327,Yeezy Edition,Apparel,YouTube,Seasonal Sale,213852,7643,862,18737.16,167652.13
+AD328,Predator Restock,Apparel,Instagram,Limited Edition,168920,19354,2289,62739.19,443233.54
+AD329,Yeezy Edition,Apparel,Facebook,Seasonal Sale,135265,3457,197,12682.16,39700.8
+AD330,Yeezy Restock,Sneakers,YouTube,Limited Edition,149736,10843,3232,40375.52,779375.23
+AD331,NMD Edition,Sneakers,Google Ads,Limited Edition,93980,3132,338,10302.86,70057.58
+AD332,Stan Smith Launch,Sneakers,Google Ads,Seasonal Sale,152471,6267,1986,20033.15,328646.9
+AD333,Stan Smith Drop,Accessories,Google Ads,Flash Sale,236429,17180,994,53587.29,183125.75
+AD334,Originals Launch,Accessories,YouTube,Flash Sale,147417,8275,1437,19665.25,341245.97
+AD335,Stan Smith Edition,Sneakers,Instagram,Influencer Collab,130918,7424,2416,27022.96,452343.08
+AD336,Yeezy Drop,Accessories,Email,Influencer Collab,139122,15281,2927,35806.04,604981.13
+AD337,Stan Smith Drop,Accessories,Facebook,Limited Edition,119930,4075,338,15453.71,59211.3
+AD338,NMD Edition,Sneakers,Email,Influencer Collab,28316,2395,647,7177.72,128309.83
+AD339,NMD Restock,Apparel,Email,New Launch,89699,9717,626,37039.06,136353.62
+AD340,Predator Launch,Accessories,YouTube,Limited Edition,387446,13383,1467,30982.48,271951.71
+AD341,Originals Drop,Apparel,Email,Limited Edition,166974,11469,2828,34292.19,427859.07
+AD342,Stan Smith Collection,Apparel,Instagram,Limited Edition,94050,6379,860,24801.06,208063.82
+AD343,Originals Edition,Accessories,Google Ads,Flash Sale,91442,3316,188,11364.14,28991.86
+AD344,Originals Launch,Accessories,YouTube,Flash Sale,983376,14926,2369,50113.82,382333.93
+AD345,NMD Restock,Sneakers,Email,New Launch,134989,6986,2232,14095.11,359026.69
+AD346,Ultraboost Launch,Accessories,TikTok,Limited Edition,546531,40415,3308,159821.13,805941.3
+AD347,Stan Smith Drop,Apparel,YouTube,Limited Edition,124450,2919,632,9914.57,112821.14
+AD348,Ultraboost Launch,Accessories,YouTube,Flash Sale,958072,52411,2855,199651.97,639373.68
+AD349,NMD Collection,Apparel,Instagram,New Launch,185982,10717,1670,32322.67,406599.92
+AD350,Yeezy Edition,Sneakers,TikTok,Limited Edition,190297,3750,798,11969.64,164140.32
+AD351,Ultraboost Collection,Apparel,Facebook,Seasonal Sale,104217,4291,759,15548.64,149219.38
+AD352,NMD Drop,Sneakers,Facebook,Limited Edition,73337,6071,1477,14867.86,277854.59
+AD353,Yeezy Launch,Sneakers,YouTube,Limited Edition,470100,31925,9578,66383.88,1465100.39
+AD354,Ultraboost Collection,Accessories,TikTok,Influencer Collab,19265,1158,125,2838.83,27597.97
+AD355,Originals Drop,Sneakers,Google Ads,New Launch,119347,7367,829,20167.16,196941.09
+AD356,Originals Restock,Apparel,YouTube,Flash Sale,283288,18161,4411,61058.96,949913.76
+AD357,NMD Launch,Apparel,TikTok,Limited Edition,523077,20656,1340,74131.64,330679.6
+AD358,Yeezy Collection,Sneakers,Email,Seasonal Sale,133155,7066,2126,14823.65,415308.47
+AD359,Originals Restock,Apparel,Google Ads,New Launch,200938,5022,1112,16245.47,189819.33
+AD360,Originals Drop,Sneakers,Instagram,Limited Edition,206283,21648,3115,57341.66,686878.82
+AD361,Originals Drop,Apparel,Facebook,New Launch,103964,11260,1713,31942.42,309193.66
+AD362,Predator Edition,Sneakers,Facebook,New Launch,102371,11759,1899,30425.91,312170.29
+AD363,Stan Smith Launch,Accessories,TikTok,Limited Edition,563588,10991,1435,24552.67,302143.42
+AD364,Stan Smith Edition,Accessories,YouTube,Influencer Collab,151296,7457,611,22040.16,147323.04
+AD365,Ultraboost Launch,Accessories,TikTok,Influencer Collab,831778,15348,1689,46915.79,277799.51
+AD366,Originals Launch,Apparel,Email,Flash Sale,638762,41737,9246,127675.51,1655557.08
+AD367,Stan Smith Edition,Accessories,Instagram,New Launch,77443,4495,1034,9071.94,165526.15
+AD368,Predator Drop,Sneakers,Google Ads,Influencer Collab,216936,3981,1354,13313.36,256637.19
+AD369,Yeezy Edition,Accessories,Instagram,New Launch,142208,9088,2167,27051.88,500236.9
+AD370,Ultraboost Collection,Accessories,Google Ads,New Launch,215676,8940,1609,23679.07,344274.54
+AD371,Stan Smith Restock,Accessories,Facebook,Influencer Collab,287662,8771,2159,33026.01,454194.26
+AD372,Predator Restock,Sneakers,YouTube,Seasonal Sale,173246,4352,1020,9755.22,191388.13
+AD373,Yeezy Edition,Apparel,TikTok,Seasonal Sale,125970,8499,1604,22096.34,300842.15
+AD374,Predator Collection,Accessories,Instagram,Influencer Collab,193376,14169,2908,45924.02,467028.32
+AD375,Stan Smith Launch,Sneakers,Google Ads,Influencer Collab,585487,18687,2381,38159.11,475531.76
+AD376,Stan Smith Restock,Apparel,TikTok,Limited Edition,111759,7093,1449,28243.35,307780.67
+AD377,Predator Edition,Sneakers,TikTok,New Launch,106530,3519,662,7581.75,115037.7
+AD378,Stan Smith Restock,Sneakers,TikTok,Influencer Collab,213861,4423,1108,16002.19,231700.71
+AD379,Ultraboost Edition,Sneakers,TikTok,New Launch,88473,1848,500,3954.32,90404.75
+AD380,Originals Launch,Accessories,Instagram,Influencer Collab,243318,13056,1595,51887.43,388010.01
+AD381,Originals Drop,Apparel,TikTok,Flash Sale,143503,864,102,3043.96,16946.4
+AD382,NMD Restock,Apparel,Instagram,Limited Edition,240909,23130,3943,78997.92,623044.9
+AD383,Predator Edition,Apparel,Email,Limited Edition,73003,3192,373,12132.49,68763.8
+AD384,Originals Restock,Sneakers,Email,Seasonal Sale,10883,394,58,1372.47,8796.24
+AD385,Originals Collection,Accessories,YouTube,Influencer Collab,118932,8902,2173,34989.72,373241.0
+AD386,Ultraboost Drop,Apparel,Facebook,Influencer Collab,259281,9654,1004,25893.2,192553.4
+AD387,Predator Launch,Sneakers,Email,Seasonal Sale,185376,8792,1885,33407.08,440104.04
+AD388,Ultraboost Edition,Sneakers,Email,Influencer Collab,25788,2359,590,5586.28,99574.19
+AD389,Ultraboost Launch,Sneakers,TikTok,New Launch,853620,18044,2597,64784.83,634847.62
+AD390,NMD Edition,Apparel,YouTube,Flash Sale,93557,1623,165,3902.93,25271.99
+AD391,Ultraboost Launch,Accessories,Email,Seasonal Sale,864580,118069,20230,312849.28,4110033.93
+AD392,Predator Edition,Accessories,Instagram,Flash Sale,135141,8505,1494,20452.7,287834.53
+AD393,Ultraboost Launch,Apparel,Google Ads,Influencer Collab,133556,4341,510,12187.03,114386.79
+AD394,NMD Edition,Accessories,Email,Limited Edition,105826,2999,507,9349.79,96396.35
+AD395,Yeezy Collection,Sneakers,Facebook,Limited Edition,134686,5512,581,15862.8,99983.3
+AD396,NMD Drop,Accessories,Instagram,New Launch,299851,7140,1332,15663.11,286356.8
+AD397,NMD Edition,Apparel,TikTok,New Launch,156653,4819,552,13164.43,115193.75
+AD398,Originals Restock,Apparel,YouTube,Limited Edition,278677,12641,1550,43985.96,322105.69
+AD399,Originals Drop,Sneakers,Instagram,Influencer Collab,242345,26692,8594,81211.12,1868058.99
+AD400,Yeezy Edition,Apparel,Email,Seasonal Sale,133429,8016,1002,24898.16,165521.98
+AD401,Originals Launch,Accessories,TikTok,Seasonal Sale,267297,6988,1564,19185.49,388645.09
+AD402,NMD Edition,Apparel,Instagram,Flash Sale,48492,3216,485,9727.52,94703.84
+AD403,Stan Smith Collection,Apparel,Facebook,Influencer Collab,205238,24511,3663,54884.88,811816.92
+AD404,NMD Collection,Apparel,YouTube,Limited Edition,48070,3575,532,12100.73,86131.31
+AD405,Originals Drop,Sneakers,Google Ads,Flash Sale,291851,19394,4797,44787.39,1041805.57
+AD406,Stan Smith Restock,Apparel,Google Ads,Influencer Collab,87027,2831,593,9577.04,117042.07
+AD407,Stan Smith Drop,Sneakers,Email,Influencer Collab,290928,21624,2207,70737.36,418831.05
+AD408,Stan Smith Collection,Apparel,YouTube,Seasonal Sale,193646,4010,497,15919.52,115055.82
+AD409,Originals Launch,Accessories,YouTube,New Launch,407625,22725,2875,48529.88,679191.57
+AD410,Predator Launch,Accessories,Google Ads,Limited Edition,701899,39415,9297,136663.17,2274654.08
+AD411,Originals Restock,Accessories,Email,Limited Edition,89309,7608,1304,27196.8,244229.19
+AD412,Ultraboost Launch,Sneakers,Facebook,Influencer Collab,401936,11849,1204,29867.04,225879.3
+AD413,Predator Edition,Apparel,Facebook,Flash Sale,149756,9272,863,36668.22,149219.75
+AD414,Stan Smith Restock,Apparel,Instagram,Limited Edition,249937,12708,1543,42319.7,306514.65
+AD415,Stan Smith Collection,Sneakers,Facebook,Limited Edition,129863,2684,526,10453.75,90151.23
+AD416,Predator Edition,Sneakers,Google Ads,Influencer Collab,14113,100,20,376.5,3658.35
+AD417,Yeezy Collection,Apparel,Google Ads,New Launch,215303,8711,1477,34602.43,239526.69
+AD418,Stan Smith Launch,Sneakers,Google Ads,Influencer Collab,416216,13218,1578,37065.84,358835.86
+AD419,Ultraboost Edition,Sneakers,Google Ads,Seasonal Sale,48230,473,66,1199.12,14312.92
+AD420,NMD Restock,Accessories,Email,Flash Sale,269661,25228,2425,84846.72,473488.71
+AD421,NMD Collection,Sneakers,YouTube,Seasonal Sale,249816,7241,1554,22042.2,279397.34
+AD422,Stan Smith Drop,Accessories,Instagram,Influencer Collab,87764,3133,511,8836.6,107725.53
+AD423,NMD Collection,Accessories,Google Ads,New Launch,287447,19537,2359,53573.99,416292.91
+AD424,Originals Launch,Sneakers,TikTok,New Launch,507540,34645,4845,109924.39,978384.11
+AD425,Yeezy Edition,Sneakers,Instagram,Seasonal Sale,75995,7218,1342,18734.08,246633.73
+AD426,Ultraboost Launch,Accessories,YouTube,Influencer Collab,359497,24788,4321,81682.33,803744.07
+AD427,Yeezy Launch,Accessories,TikTok,Flash Sale,63163,1762,399,6269.44,62323.02
+AD428,Originals Launch,Apparel,Email,Flash Sale,514652,27867,2876,91587.23,552810.45
+AD429,NMD Collection,Sneakers,Email,Flash Sale,142887,18621,4248,37502.06,788043.98
+AD430,NMD Collection,Sneakers,Google Ads,Seasonal Sale,199049,8959,2607,28439.9,405019.82
+AD431,NMD Edition,Accessories,TikTok,New Launch,11667,88,10,287.35,2213.78
+AD432,Predator Launch,Sneakers,Email,Flash Sale,874362,85686,24423,331206.61,4530631.97
+AD433,Ultraboost Launch,Apparel,YouTube,New Launch,816315,20673,2516,76425.29,522167.68
+AD434,Stan Smith Collection,Apparel,YouTube,Influencer Collab,213902,14121,1762,39821.84,310029.6
+AD435,Yeezy Collection,Accessories,Email,Seasonal Sale,246262,11009,1993,32935.56,317829.64
+AD436,Ultraboost Edition,Sneakers,YouTube,Limited Edition,223858,12358,3818,36398.15,640229.95
+AD437,Originals Restock,Sneakers,Instagram,New Launch,265552,16902,5343,60797.1,1298219.55
+AD438,Yeezy Restock,Sneakers,TikTok,Limited Edition,281951,1961,610,5628.19,110590.8
+AD439,Ultraboost Drop,Sneakers,YouTube,New Launch,289852,19736,5020,57479.45,863652.81
+AD440,Stan Smith Collection,Sneakers,Facebook,Seasonal Sale,34258,1855,294,4926.82,52102.6
+AD441,NMD Restock,Sneakers,Email,New Launch,71555,10587,2565,36816.62,419280.06
+AD442,Originals Restock,Apparel,TikTok,Flash Sale,104335,3621,776,8624.66,124038.15
+AD443,Ultraboost Edition,Sneakers,Instagram,New Launch,227932,20127,5551,44362.38,1319879.2
+AD444,Ultraboost Collection,Accessories,Instagram,Limited Edition,248962,15469,2378,37641.13,511971.84
+AD445,Ultraboost Edition,Sneakers,TikTok,Flash Sale,173485,5826,1754,22067.87,302969.71
+AD446,NMD Collection,Sneakers,Google Ads,Influencer Collab,248457,9533,3025,24596.59,668266.47
+AD447,NMD Launch,Apparel,Email,New Launch,529163,76249,7343,177136.31,1759298.69
+AD448,Originals Collection,Apparel,TikTok,Flash Sale,283632,19239,1025,38711.35,171803.58
+AD449,NMD Drop,Accessories,TikTok,Flash Sale,59696,2178,135,6528.13,28574.56
+AD450,Yeezy Launch,Accessories,TikTok,Flash Sale,563257,27394,5159,109201.91,1237331.49
+AD451,Stan Smith Collection,Accessories,Facebook,Influencer Collab,292654,3814,465,12685.37,87122.83
+AD452,Originals Restock,Apparel,Email,New Launch,64849,3071,662,10640.84,104173.73
+AD453,Ultraboost Restock,Apparel,Facebook,Seasonal Sale,153196,2835,650,11194.87,101005.29
+AD454,Originals Drop,Sneakers,Google Ads,Seasonal Sale,87140,4221,1042,15507.26,164340.18
+AD455,Originals Drop,Accessories,TikTok,Seasonal Sale,129649,3097,503,7169.12,110665.49
+AD456,Yeezy Drop,Apparel,TikTok,Limited Edition,50652,2526,431,9881.5,66601.28
+AD457,Yeezy Restock,Sneakers,Email,Seasonal Sale,139098,4979,1555,17374.4,338735.34
+AD458,Predator Restock,Apparel,Email,Flash Sale,28250,4140,669,10725.09,147460.58
+AD459,NMD Edition,Sneakers,Instagram,Flash Sale,59096,1428,232,4733.17,39660.92
+AD460,Predator Drop,Sneakers,YouTube,Limited Edition,200337,3928,958,13662.18,228808.56
+AD461,Ultraboost Edition,Accessories,Instagram,Influencer Collab,268430,28682,3305,101386.6,676296.17
+AD462,NMD Drop,Sneakers,Instagram,Flash Sale,251635,26026,6335,93183.27,1549162.69
+AD463,Predator Drop,Accessories,Google Ads,Limited Edition,92382,6148,1375,22036.77,223314.02
+AD464,Ultraboost Launch,Sneakers,YouTube,Influencer Collab,992369,26520,5408,63714.47,1157028.95
+AD465,Ultraboost Edition,Apparel,Google Ads,Influencer Collab,20638,597,142,1199.87,27933.76
+AD466,Ultraboost Collection,Accessories,YouTube,Flash Sale,292149,20919,3358,64336.31,649166.37
+AD467,Predator Drop,Apparel,Facebook,Flash Sale,257995,5891,1145,21674.68,218035.96
+AD468,Predator Restock,Accessories,TikTok,Flash Sale,180209,4097,793,9815.55,130141.21
+AD469,Yeezy Restock,Accessories,TikTok,Flash Sale,66462,1891,445,3831.55,75916.0
+AD470,Originals Launch,Sneakers,Instagram,Influencer Collab,134043,8722,2392,27001.39,484326.7
+AD471,Ultraboost Drop,Accessories,Facebook,New Launch,173844,6018,1031,22889.26,245059.6
+AD472,Stan Smith Collection,Apparel,TikTok,New Launch,113447,3739,279,13195.72,51431.97
+AD473,NMD Collection,Apparel,YouTube,Influencer Collab,280637,13770,1901,42095.19,346240.37
+AD474,Predator Drop,Accessories,Facebook,Limited Edition,162121,6404,1028,18787.29,159846.38
+AD475,Yeezy Launch,Apparel,Facebook,Limited Edition,874023,102882,15602,231622.11,3321854.81
+AD476,Yeezy Launch,Apparel,Instagram,New Launch,498507,30745,6508,114721.57,1602024.3
+AD477,NMD Edition,Apparel,Email,Flash Sale,57772,2893,262,8294.4,56977.58
+AD478,Predator Edition,Accessories,Facebook,Flash Sale,264868,24049,4750,52209.68,961838.91
+AD479,NMD Edition,Sneakers,YouTube,Flash Sale,115481,675,117,1995.15,25158.67
+AD480,NMD Restock,Apparel,Email,New Launch,137827,5353,1295,18010.88,243124.91
+AD481,Yeezy Restock,Apparel,Google Ads,New Launch,219245,17163,3778,38814.96,908899.75
+AD482,Ultraboost Restock,Apparel,Instagram,Limited Edition,37989,305,37,828.47,7965.59
+AD483,NMD Restock,Sneakers,Email,Flash Sale,206704,21568,5078,65454.92,1113546.7
+AD484,Ultraboost Launch,Accessories,YouTube,Seasonal Sale,182569,1554,201,3726.95,42900.9
+AD485,Yeezy Launch,Accessories,Google Ads,Flash Sale,957454,17451,1924,59233.13,465840.89
+AD486,NMD Launch,Apparel,TikTok,Seasonal Sale,390269,18018,1834,36525.63,304201.54
+AD487,Yeezy Restock,Apparel,YouTube,Influencer Collab,263607,20245,1032,54539.76,184155.22
+AD488,NMD Restock,Sneakers,TikTok,New Launch,227628,8304,1795,21456.01,314610.09
+AD489,Predator Launch,Sneakers,TikTok,New Launch,895628,58991,11836,178890.0,1966383.58
+AD490,Stan Smith Restock,Sneakers,TikTok,Seasonal Sale,123595,1979,469,5434.84,106330.11
+AD491,Predator Edition,Sneakers,TikTok,Influencer Collab,282154,14049,2571,38013.87,456651.38
+AD492,Ultraboost Collection,Accessories,Facebook,Flash Sale,64197,7383,1224,24786.47,250633.44
+AD493,Originals Collection,Apparel,Facebook,Influencer Collab,276298,9970,866,37129.27,131264.3
+AD494,Predator Restock,Sneakers,Email,New Launch,136523,10664,1751,38596.19,388698.36
+AD495,Stan Smith Edition,Apparel,Google Ads,Influencer Collab,143280,1588,360,6267.91,59246.92
+AD496,Predator Drop,Sneakers,YouTube,New Launch,126772,4031,1045,10389.85,197457.1
+AD497,Originals Drop,Sneakers,Instagram,Flash Sale,294589,11305,2841,24670.58,447945.25
+AD498,NMD Edition,Apparel,TikTok,New Launch,138599,8619,1032,33598.77,251495.81
+AD499,Originals Restock,Accessories,Google Ads,Seasonal Sale,228994,6957,998,14789.55,173805.85
+AD500,Predator Restock,Sneakers,Google Ads,New Launch,175875,1987,570,4720.72,86497.81
+AD501,Originals Drop,Sneakers,Email,Flash Sale,43889,5358,1042,16362.11,180838.24
+AD502,Predator Collection,Sneakers,Instagram,Limited Edition,24443,754,155,2957.82,34740.42
+AD503,Predator Restock,Apparel,Facebook,Seasonal Sale,196319,18276,3810,52617.36,860369.58
+AD504,Predator Edition,Apparel,YouTube,New Launch,209161,16328,838,35282.86,167542.47
+AD505,Stan Smith Collection,Accessories,Google Ads,Flash Sale,24629,1399,134,5383.93,30842.74
+AD506,Predator Collection,Sneakers,TikTok,Flash Sale,216153,10317,2049,24608.67,381422.07
+AD507,Originals Drop,Accessories,Instagram,Flash Sale,124901,11594,1157,34486.29,182991.06
+AD508,Originals Collection,Sneakers,YouTube,Flash Sale,120702,3427,485,7247.09,76900.63
+AD509,Ultraboost Drop,Sneakers,Google Ads,Flash Sale,218114,11930,2621,40026.33,647841.69
+AD510,Yeezy Drop,Accessories,Google Ads,Influencer Collab,80196,3569,587,9415.56,134747.4
+AD511,Yeezy Launch,Apparel,Google Ads,Influencer Collab,632434,7826,496,18163.85,85005.97
+AD512,Stan Smith Collection,Accessories,Email,New Launch,289350,9378,2202,22040.16,438774.14
+AD513,Yeezy Edition,Apparel,Facebook,Influencer Collab,216592,2394,388,9122.22,81378.18
+AD514,Predator Edition,Accessories,TikTok,Seasonal Sale,63476,3710,265,8025.7,48461.89
+AD515,NMD Edition,Apparel,Facebook,Limited Edition,123304,10205,1336,32251.01,257136.31
+AD516,Predator Restock,Accessories,Facebook,Seasonal Sale,236628,20946,3277,66462.52,694056.63
+AD517,NMD Restock,Sneakers,Instagram,Seasonal Sale,174244,17526,3946,59589.28,624887.13
+AD518,Ultraboost Collection,Accessories,Instagram,Influencer Collab,231331,21764,2636,47586.05,638782.22
+AD519,Yeezy Drop,Sneakers,TikTok,Influencer Collab,84771,3067,666,9696.82,138190.5
+AD520,NMD Collection,Accessories,Instagram,Seasonal Sale,21703,1808,242,4381.92,37339.67
+AD521,NMD Launch,Apparel,Instagram,New Launch,856707,31907,2109,89000.81,353485.12
+AD522,Originals Launch,Sneakers,Instagram,New Launch,462654,36465,10124,89080.67,2426842.34
+AD523,NMD Edition,Apparel,Facebook,Flash Sale,27583,1792,338,6348.97,74065.36
+AD524,Stan Smith Drop,Apparel,Email,Limited Edition,162387,20894,3373,62251.75,821085.96
+AD525,Stan Smith Drop,Sneakers,Email,Seasonal Sale,84337,2674,731,7506.99,152097.52
+AD526,Yeezy Launch,Apparel,Google Ads,New Launch,623280,31960,3835,76939.88,614724.46
+AD527,Stan Smith Restock,Sneakers,Instagram,Seasonal Sale,279777,13892,2596,47713.21,477340.12
+AD528,Predator Restock,Accessories,Email,New Launch,177108,5776,1261,11991.62,278970.86
+AD529,Ultraboost Restock,Apparel,Instagram,Seasonal Sale,12329,110,20,238.26,4508.71
+AD530,Originals Edition,Sneakers,Instagram,New Launch,263343,30014,4546,101730.96,1046279.25
+AD531,Ultraboost Drop,Accessories,Email,Limited Edition,92730,12099,2170,30132.84,500619.81
+AD532,Predator Restock,Accessories,Instagram,Influencer Collab,17494,321,77,833.67,11922.71
+AD533,Predator Launch,Accessories,YouTube,Flash Sale,781653,4876,408,11442.64,63184.84
+AD534,NMD Restock,Sneakers,TikTok,Limited Edition,113563,6904,1194,19160.54,231619.52
+AD535,Predator Launch,Apparel,Email,Influencer Collab,265210,33032,2677,84559.58,488230.51
+AD536,Predator Collection,Sneakers,Email,Flash Sale,115591,2762,723,10521.09,154309.16
+AD537,Stan Smith Launch,Sneakers,Facebook,New Launch,875702,88563,23160,311886.39,3712047.24
+AD538,Stan Smith Edition,Sneakers,YouTube,Flash Sale,127345,7901,1485,24153.83,252605.13
+AD539,Predator Drop,Apparel,Instagram,Flash Sale,220790,5068,324,12322.01,51345.79
+AD540,Stan Smith Collection,Sneakers,Google Ads,Flash Sale,174097,8589,2058,21748.17,506016.83
+AD541,Ultraboost Edition,Accessories,Google Ads,Influencer Collab,17513,1321,152,3583.31,25688.11
+AD542,NMD Launch,Accessories,TikTok,Flash Sale,363014,12205,1803,48374.2,377387.29
+AD543,Predator Collection,Sneakers,Email,Limited Edition,92274,11623,2026,39062.68,360048.81
+AD544,NMD Restock,Sneakers,Facebook,Limited Edition,26891,308,99,998.81,16295.34
+AD545,Originals Collection,Sneakers,TikTok,Seasonal Sale,269368,13875,4644,46872.34,1039468.15
+AD546,Ultraboost Launch,Apparel,TikTok,New Launch,228604,12844,941,45268.06,174580.7
+AD547,Stan Smith Collection,Sneakers,Instagram,New Launch,151235,7298,2332,18330.6,575230.0
+AD548,Stan Smith Restock,Apparel,Instagram,Limited Edition,196542,10006,1859,31403.9,337172.32
+AD549,Stan Smith Launch,Apparel,TikTok,Flash Sale,945789,62520,14593,132249.89,2322780.06
+AD550,Ultraboost Launch,Apparel,YouTube,Influencer Collab,785711,32248,5743,100550.88,1115680.27
+AD551,Yeezy Restock,Apparel,Email,Flash Sale,144437,19857,3072,57524.78,476103.5
+AD552,Yeezy Edition,Accessories,YouTube,Seasonal Sale,42008,305,17,691.73,2885.26
+AD553,Stan Smith Edition,Accessories,TikTok,Influencer Collab,92647,3978,763,9325.69,116195.52
+AD554,Yeezy Collection,Sneakers,Email,Influencer Collab,230284,15075,5262,57735.26,1137242.93
+AD555,NMD Drop,Apparel,Facebook,Flash Sale,31039,3635,387,13496.9,83275.51
+AD556,Predator Edition,Apparel,Facebook,New Launch,291330,6475,1290,17696.07,214101.82
+AD557,Predator Collection,Accessories,Facebook,Seasonal Sale,166348,3962,423,12168.53,103113.11
+AD558,Originals Edition,Accessories,YouTube,New Launch,182885,12044,1186,32692.94,211941.67
+AD559,Predator Restock,Sneakers,TikTok,Limited Edition,255339,4093,1037,11806.68,240657.76
+AD560,Stan Smith Drop,Apparel,Instagram,New Launch,177864,16665,2809,43190.88,653100.86
+AD561,Predator Edition,Sneakers,Instagram,Flash Sale,95372,6267,1808,23389.35,301324.64
+AD562,Stan Smith Collection,Sneakers,Instagram,Limited Edition,140428,9424,1104,19403.06,237737.89
+AD563,Stan Smith Collection,Apparel,YouTube,Limited Edition,238856,6102,1404,18365.49,283469.15
+AD564,Predator Launch,Accessories,YouTube,Limited Edition,184925,2561,189,8862.19,38219.71
+AD565,Stan Smith Collection,Apparel,Instagram,Flash Sale,203794,3163,548,8064.08,83112.87
+AD566,Predator Drop,Apparel,Google Ads,Flash Sale,109917,1657,280,4096.78,43131.59
+AD567,Yeezy Restock,Accessories,YouTube,Seasonal Sale,41402,889,166,1985.12,30122.82
+AD568,Ultraboost Drop,Accessories,YouTube,Seasonal Sale,197652,2335,165,7154.54,25488.85
+AD569,Yeezy Edition,Accessories,TikTok,Limited Edition,136893,10434,2381,31810.97,588688.82
+AD570,Originals Edition,Apparel,TikTok,Influencer Collab,136653,2977,510,10079.5,116631.21
+AD571,Originals Collection,Accessories,YouTube,Seasonal Sale,247115,2415,452,5010.36,80154.43
+AD572,Predator Collection,Accessories,Instagram,Seasonal Sale,195256,5521,1033,19633.47,234441.34
+AD573,Predator Edition,Apparel,Google Ads,Flash Sale,195993,11763,2199,31267.73,360607.44
+AD574,Originals Drop,Apparel,Instagram,Influencer Collab,139665,6408,460,23778.8,91282.39
+AD575,Originals Drop,Sneakers,Google Ads,Influencer Collab,273938,9334,3229,31238.71,779510.19
+AD576,Predator Edition,Apparel,Instagram,Influencer Collab,296247,26991,5394,77307.81,850847.04
+AD577,Stan Smith Edition,Accessories,Google Ads,New Launch,168290,6374,1512,16645.1,340393.79
+AD578,NMD Launch,Accessories,TikTok,New Launch,462650,28498,4577,85350.62,978722.84
+AD579,NMD Edition,Apparel,TikTok,Influencer Collab,280869,13559,1694,53981.96,412998.69
+AD580,Ultraboost Restock,Accessories,Email,Influencer Collab,55691,6373,430,15746.05,80969.17
+AD581,Ultraboost Collection,Apparel,Facebook,Influencer Collab,18923,1869,124,6099.23,19202.93
+AD582,Yeezy Edition,Sneakers,Instagram,Seasonal Sale,254558,4714,1329,14636.46,237778.78
+AD583,NMD Launch,Apparel,YouTube,New Launch,783436,7624,1817,19023.22,358899.41
+AD584,Ultraboost Launch,Apparel,YouTube,Seasonal Sale,227644,11239,1749,38541.37,309820.85
+AD585,Ultraboost Restock,Apparel,TikTok,Flash Sale,126737,8798,841,23464.17,164144.31
+AD586,Ultraboost Drop,Sneakers,Google Ads,New Launch,283459,5357,592,15945.44,130546.06
+AD587,Predator Restock,Sneakers,Instagram,Limited Edition,166877,1352,441,3936.71,77891.96
+AD588,Stan Smith Drop,Sneakers,Email,Limited Edition,249609,36618,8198,83089.08,1578870.95
+AD589,NMD Collection,Apparel,Facebook,Seasonal Sale,139718,1364,163,4768.19,38260.07
+AD590,Predator Collection,Sneakers,YouTube,New Launch,151020,5512,1253,18441.42,197313.43
+AD591,Predator Restock,Apparel,YouTube,New Launch,201844,10495,2461,39521.46,458200.24
+AD592,Yeezy Restock,Apparel,Instagram,New Launch,133593,7000,882,23973.97,215192.25
+AD593,NMD Edition,Accessories,Instagram,Seasonal Sale,178169,9653,595,22888.14,94018.79
+AD594,Predator Edition,Accessories,Instagram,Seasonal Sale,20599,782,175,2450.96,39180.71
+AD595,NMD Edition,Sneakers,Email,Limited Edition,31408,741,220,1673.2,49487.56
+AD596,Yeezy Drop,Apparel,Instagram,Seasonal Sale,198717,21892,1298,84560.43,252843.77
+AD597,NMD Restock,Apparel,TikTok,Seasonal Sale,110619,6209,645,12726.36,140635.39
+AD598,Ultraboost Launch,Apparel,TikTok,New Launch,181026,8469,1456,25135.35,339466.88
+AD599,Stan Smith Drop,Apparel,Email,Limited Edition,267609,17754,3923,64969.06,953021.43
+AD600,Ultraboost Launch,Apparel,TikTok,Flash Sale,384541,8678,755,33139.76,179725.89
+AD601,Ultraboost Restock,Apparel,Google Ads,Influencer Collab,270367,4151,752,8925.23,169485.0
+AD602,Originals Restock,Sneakers,Instagram,Seasonal Sale,109743,1953,366,4593.63,87862.07
+AD603,Ultraboost Edition,Apparel,TikTok,New Launch,272228,15905,2781,59990.9,489130.29
+AD604,Yeezy Collection,Apparel,Facebook,Limited Edition,54398,1758,423,5144.32,64066.28
+AD605,Stan Smith Drop,Apparel,Facebook,Flash Sale,183519,8960,1159,20970.72,246806.77
+AD606,Predator Edition,Sneakers,Google Ads,Seasonal Sale,225555,6644,1416,15490.11,270924.62
+AD607,Yeezy Edition,Apparel,Email,Influencer Collab,194704,21920,1849,71993.77,413522.39
+AD608,Originals Launch,Apparel,YouTube,Influencer Collab,580007,17652,3359,35931.24,725697.79
+AD609,NMD Restock,Apparel,Facebook,Influencer Collab,113448,1213,178,3224.36,26938.41
+AD610,Predator Launch,Accessories,Instagram,New Launch,368435,10450,1610,37433.71,320518.53
+AD611,Stan Smith Drop,Apparel,Facebook,Seasonal Sale,284705,7805,1720,19103.4,312279.62
+AD612,Predator Edition,Apparel,Google Ads,Flash Sale,199138,10218,1646,21869.81,271245.2
+AD613,Originals Restock,Apparel,Instagram,Seasonal Sale,181487,7905,1593,19888.42,316173.38
+AD614,Ultraboost Launch,Apparel,Facebook,Flash Sale,51497,4841,947,12806.47,146971.27
+AD615,Ultraboost Drop,Accessories,Facebook,Seasonal Sale,244053,25484,2006,70015.62,445182.86
+AD616,Yeezy Launch,Sneakers,Email,Limited Edition,514998,26612,7310,74683.44,1197028.7
+AD617,Originals Restock,Sneakers,Email,New Launch,77362,7604,1128,18798.37,242317.67
+AD618,Stan Smith Drop,Apparel,Google Ads,New Launch,225959,18043,2919,67716.52,614494.97
+AD619,Originals Edition,Apparel,Email,New Launch,193789,27653,4047,65394.71,938201.81
+AD620,Yeezy Drop,Sneakers,Instagram,Flash Sale,52396,828,109,2736.8,27141.05
+AD621,Yeezy Collection,Accessories,YouTube,New Launch,186131,13051,3123,48275.42,753030.88
+AD622,Yeezy Restock,Sneakers,Google Ads,Seasonal Sale,239424,14161,2585,46798.01,643635.29
+AD623,Ultraboost Restock,Sneakers,Facebook,Flash Sale,135466,1578,509,3993.84,90314.45
+AD624,Predator Launch,Sneakers,TikTok,Flash Sale,953112,45058,10692,137074.85,2462123.1
+AD625,Predator Edition,Sneakers,TikTok,New Launch,22794,1779,415,4429.92,85630.05
+AD626,Stan Smith Restock,Accessories,TikTok,Flash Sale,238322,12263,1037,39395.85,164727.97
+AD627,Originals Launch,Accessories,YouTube,Seasonal Sale,790859,22964,5695,48420.57,983885.73
+AD628,Originals Launch,Sneakers,Facebook,Limited Edition,958893,64474,10825,247776.81,2375227.52
+AD629,Predator Drop,Sneakers,Email,New Launch,206773,17428,4260,51194.84,1061640.75
+AD630,Stan Smith Launch,Accessories,TikTok,Limited Edition,546234,26747,6289,54223.53,1388852.22
+AD631,Predator Edition,Sneakers,Google Ads,Flash Sale,287707,6359,1241,19218.91,269817.2
+AD632,Yeezy Drop,Accessories,Instagram,Limited Edition,103502,2559,153,5595.0,32047.54
+AD633,Ultraboost Edition,Apparel,Facebook,Influencer Collab,68893,6059,876,16868.61,208051.44
+AD634,Stan Smith Restock,Apparel,Google Ads,Influencer Collab,10673,176,33,421.22,6933.6
+AD635,Yeezy Launch,Sneakers,YouTube,Limited Edition,817322,19352,6422,73266.96,1370327.85
+AD636,Predator Collection,Apparel,Email,Seasonal Sale,269418,40294,5439,119323.66,1060412.22
+AD637,NMD Restock,Sneakers,Google Ads,Flash Sale,110704,3104,396,9334.04,86069.25
+AD638,Yeezy Edition,Accessories,Facebook,Flash Sale,110287,9802,581,29011.16,111027.51
+AD639,NMD Restock,Apparel,Google Ads,Influencer Collab,175376,1995,199,6411.53,31244.26
+AD640,Predator Collection,Apparel,Instagram,Seasonal Sale,24877,1112,65,4031.11,15799.95
+AD641,Yeezy Drop,Apparel,Instagram,Limited Edition,173502,16612,2933,44326.11,641268.29
+AD642,Yeezy Launch,Accessories,YouTube,Limited Edition,437301,33008,2510,119029.53,459010.09
+AD643,Yeezy Launch,Apparel,Facebook,Influencer Collab,533202,26475,1968,79992.29,366011.35
+AD644,NMD Restock,Apparel,TikTok,Influencer Collab,42217,3374,566,8814.13,115909.02
+AD645,Originals Drop,Accessories,YouTube,Limited Edition,148249,5082,290,12205.2,61960.35
+AD646,NMD Launch,Sneakers,TikTok,Seasonal Sale,379823,3352,928,11014.43,147029.99
+AD647,Predator Launch,Accessories,Facebook,Flash Sale,907478,42126,9662,126011.61,1644768.34
+AD648,Originals Restock,Sneakers,Google Ads,Seasonal Sale,187552,3690,781,13101.16,172701.09
+AD649,Ultraboost Restock,Accessories,TikTok,Seasonal Sale,98153,2800,649,10383.34,127769.92
+AD650,Yeezy Collection,Apparel,Google Ads,Flash Sale,266777,4191,348,9265.65,81804.96
+AD651,Predator Launch,Apparel,Facebook,Influencer Collab,815404,69267,13442,180205.15,3357293.47
+AD652,Ultraboost Launch,Accessories,Email,New Launch,875566,108261,14808,426072.47,3194188.77
+AD653,Yeezy Edition,Sneakers,Google Ads,Influencer Collab,46962,498,165,1521.22,40773.71
+AD654,Yeezy Drop,Sneakers,TikTok,New Launch,162932,10460,2852,23242.24,515577.4
+AD655,Predator Edition,Accessories,Instagram,Limited Edition,66070,954,144,2705.77,32182.98
+AD656,Originals Collection,Sneakers,Email,Seasonal Sale,31002,2564,509,9894.82,85180.31
+AD657,Yeezy Drop,Apparel,YouTube,New Launch,85501,6205,1341,16702.53,284105.3
+AD658,NMD Launch,Apparel,Facebook,Seasonal Sale,356536,12489,2359,48850.37,529993.59
+AD659,NMD Restock,Accessories,YouTube,Influencer Collab,220016,14269,1810,31863.17,395412.32
+AD660,Predator Launch,Accessories,Instagram,Flash Sale,611254,30174,4138,97593.88,643264.77
+AD661,Ultraboost Launch,Sneakers,Email,New Launch,906931,72661,21745,164218.72,4757261.76
+AD662,Stan Smith Collection,Accessories,Instagram,Influencer Collab,228198,11346,2592,33180.13,392698.74
+AD663,Yeezy Collection,Accessories,Email,New Launch,221381,8634,757,20563.64,176029.47
+AD664,Predator Restock,Accessories,TikTok,Flash Sale,298940,17345,1516,68937.43,272974.15
+AD665,Originals Drop,Accessories,TikTok,Flash Sale,40474,1723,109,4939.17,20923.88
+AD666,NMD Collection,Sneakers,Facebook,New Launch,131456,11193,2427,34184.51,583723.81
+AD667,Predator Drop,Accessories,TikTok,New Launch,102000,5221,1099,18038.58,211807.8
+AD668,Originals Collection,Sneakers,Google Ads,Flash Sale,210934,13416,2989,47408.95,691077.97
+AD669,Predator Restock,Accessories,TikTok,Limited Edition,186578,12990,3108,26735.37,728655.73
+AD670,NMD Launch,Sneakers,Instagram,Flash Sale,718305,52094,11365,109350.07,2731805.24
+AD671,NMD Collection,Accessories,Instagram,New Launch,248391,21776,1389,77933.72,220596.65
+AD672,Originals Restock,Sneakers,Email,Limited Edition,23129,638,178,1565.71,39941.98
+AD673,NMD Restock,Accessories,Facebook,Flash Sale,12111,662,156,1513.6,32213.2
+AD674,Stan Smith Collection,Sneakers,YouTube,Limited Edition,247970,8173,2717,21117.58,407572.44
+AD675,NMD Drop,Apparel,TikTok,New Launch,188820,10874,2132,23064.44,525398.46
+AD676,Predator Launch,Accessories,YouTube,New Launch,915404,6615,1433,24259.73,351486.19
+AD677,Stan Smith Launch,Sneakers,Facebook,Limited Edition,672107,32229,7641,124849.13,1313251.44
+AD678,Yeezy Restock,Sneakers,TikTok,Flash Sale,137942,1560,375,5032.99,68079.29
+AD679,Ultraboost Launch,Sneakers,Google Ads,New Launch,371959,17432,2721,68003.29,506672.2
+AD680,Ultraboost Restock,Apparel,TikTok,Influencer Collab,18636,953,204,3717.2,50218.61
+AD681,NMD Drop,Sneakers,YouTube,Seasonal Sale,58616,4393,765,15142.58,145622.37
+AD682,NMD Launch,Apparel,Instagram,Influencer Collab,728891,32169,6090,108020.49,1114650.38
+AD683,Ultraboost Drop,Accessories,TikTok,Flash Sale,55438,2656,562,7485.81,123151.26
+AD684,Yeezy Edition,Accessories,YouTube,Influencer Collab,17360,853,167,3391.48,28811.05
+AD685,Ultraboost Collection,Sneakers,YouTube,Limited Edition,217720,5095,568,10609.22,123762.44
+AD686,Stan Smith Restock,Apparel,TikTok,Limited Edition,89969,4488,588,13764.41,92655.6
+AD687,Ultraboost Launch,Sneakers,Facebook,Limited Edition,188607,9722,2451,37461.04,574892.63
+AD688,Predator Collection,Sneakers,Facebook,Influencer Collab,295598,21757,7585,44596.86,1510768.59
+AD689,Yeezy Collection,Sneakers,Google Ads,Seasonal Sale,61340,3437,1156,7257.74,237101.19
+AD690,Ultraboost Restock,Accessories,Facebook,Seasonal Sale,159223,12144,793,38381.32,136715.49
+AD691,Predator Edition,Sneakers,Instagram,New Launch,143425,2122,531,4325.68,83960.87
+AD692,Stan Smith Edition,Accessories,Instagram,Flash Sale,231101,19945,4172,73131.14,956593.5
+AD693,Yeezy Launch,Sneakers,Instagram,Influencer Collab,169279,2578,539,6272.99,125405.96
+AD694,Stan Smith Collection,Apparel,TikTok,Limited Edition,91697,4843,687,14656.19,154996.19
+AD695,Yeezy Collection,Apparel,Email,New Launch,215116,22408,4524,52698.54,781825.58
+AD696,Ultraboost Restock,Apparel,YouTube,Limited Edition,93713,2161,505,8420.13,117367.85
+AD697,NMD Restock,Accessories,Email,New Launch,81591,9830,2035,35755.47,312087.54
+AD698,Predator Restock,Apparel,Google Ads,Limited Edition,277047,6316,1064,22084.58,206012.93
+AD699,Stan Smith Restock,Sneakers,TikTok,New Launch,142564,8498,1472,30926.37,321251.88
+AD700,NMD Drop,Apparel,TikTok,New Launch,54810,376,47,1177.83,8742.75
+AD701,Ultraboost Edition,Sneakers,TikTok,Seasonal Sale,180081,8635,2740,31396.37,441301.77
+AD702,Yeezy Restock,Apparel,Google Ads,Seasonal Sale,233692,16634,1374,64206.22,314859.18
+AD703,Predator Launch,Accessories,YouTube,Influencer Collab,79627,4512,566,16822.79,85922.43
+AD704,Stan Smith Restock,Apparel,Email,New Launch,104454,13160,1692,29214.44,378324.93
+AD705,Predator Edition,Accessories,Facebook,New Launch,222612,9932,1097,34713.79,201763.27
+AD706,Ultraboost Collection,Apparel,Email,Limited Edition,248341,23506,1990,53365.05,347226.67
+AD707,Yeezy Restock,Apparel,Email,Flash Sale,264954,8684,545,32863.68,126284.2
+AD708,Originals Restock,Apparel,Google Ads,Flash Sale,157591,5956,685,20247.79,154400.28
+AD709,Stan Smith Drop,Apparel,Google Ads,Limited Edition,188705,6103,811,18182.55,151027.89
+AD710,Stan Smith Drop,Accessories,TikTok,New Launch,14509,565,59,1807.14,12503.55
+AD711,NMD Collection,Apparel,Instagram,Influencer Collab,241609,16379,2416,42791.81,371660.47
+AD712,NMD Launch,Accessories,Facebook,New Launch,811630,86086,11931,298301.88,2251227.07
+AD713,Originals Restock,Accessories,Facebook,Seasonal Sale,99647,11179,1613,34226.33,357536.12
+AD714,Predator Drop,Apparel,YouTube,Influencer Collab,51902,2216,532,4613.17,81063.66
+AD715,Stan Smith Restock,Sneakers,Facebook,Limited Edition,266528,9787,1620,35749.78,277104.32
+AD716,NMD Launch,Sneakers,YouTube,Influencer Collab,289447,15474,2158,42531.3,470667.94
+AD717,Stan Smith Collection,Sneakers,Google Ads,Seasonal Sale,173731,5250,1005,11807.88,207146.54
+AD718,Ultraboost Edition,Apparel,Instagram,Influencer Collab,97195,4114,913,14168.82,200038.5
+AD719,Yeezy Edition,Apparel,Instagram,Seasonal Sale,111891,11777,1377,44277.54,285346.54
+AD720,Stan Smith Collection,Sneakers,TikTok,Limited Edition,80697,970,186,2898.28,32015.49
+AD721,NMD Edition,Accessories,Email,Limited Edition,41809,2846,559,8870.23,136247.44
+AD722,Originals Edition,Apparel,TikTok,New Launch,293212,2933,520,7686.14,86870.34
+AD723,Yeezy Collection,Accessories,Google Ads,New Launch,258527,4198,954,11971.37,147577.89
+AD724,NMD Restock,Accessories,YouTube,Limited Edition,204205,8544,1322,23594.17,257612.14
+AD725,Yeezy Edition,Accessories,YouTube,Seasonal Sale,119525,5669,535,11396.48,94056.31
+AD726,Originals Drop,Apparel,Instagram,New Launch,261225,26711,6573,74022.44,1502335.4
+AD727,Originals Restock,Accessories,TikTok,Influencer Collab,70639,1176,289,3155.99,43682.96
+AD728,Yeezy Drop,Accessories,Email,Seasonal Sale,141900,16903,2485,53349.64,491979.76
+AD729,Predator Drop,Sneakers,TikTok,Seasonal Sale,49745,1394,308,4799.12,50938.89
+AD730,NMD Launch,Accessories,TikTok,Flash Sale,526470,37364,2112,115380.88,347849.77
+AD731,NMD Restock,Accessories,Facebook,Flash Sale,295835,24227,5219,64122.34,923160.27
+AD732,Originals Collection,Sneakers,Google Ads,New Launch,211936,16861,2379,64295.91,489735.93
+AD733,Predator Edition,Apparel,Email,Seasonal Sale,60396,3477,194,13591.8,42420.86
+AD734,NMD Launch,Apparel,Instagram,Flash Sale,511398,7236,866,17536.95,200277.51
+AD735,Predator Drop,Accessories,YouTube,Seasonal Sale,288846,18864,3300,65501.89,708337.05
+AD736,NMD Collection,Accessories,Facebook,New Launch,138856,4088,650,15883.12,141651.8
+AD737,Stan Smith Edition,Apparel,Facebook,Seasonal Sale,167291,15708,809,36965.77,153073.7
+AD738,Originals Collection,Sneakers,Facebook,Influencer Collab,117680,8343,2886,27244.33,578573.71
+AD739,Yeezy Collection,Apparel,Facebook,New Launch,101753,1957,119,4050.8,19601.35
+AD740,Yeezy Edition,Sneakers,Instagram,Influencer Collab,34773,3299,485,10482.1,78317.82
+AD741,Originals Drop,Sneakers,TikTok,Influencer Collab,188692,11571,2832,41821.81,648880.14
+AD742,Originals Drop,Accessories,TikTok,Limited Edition,286569,8388,957,30725.88,182370.9
+AD743,Stan Smith Drop,Apparel,YouTube,Seasonal Sale,173599,13184,2488,50994.28,607456.87
+AD744,Ultraboost Edition,Accessories,Email,Seasonal Sale,16348,2396,289,5334.62,60762.35
+AD745,Originals Edition,Apparel,Google Ads,Seasonal Sale,171064,7857,1246,29439.62,204205.91
+AD746,Stan Smith Collection,Apparel,Google Ads,Flash Sale,186395,13743,2120,51979.9,458787.95
+AD747,Stan Smith Restock,Sneakers,TikTok,New Launch,38626,2537,533,9164.83,116274.46
+AD748,NMD Edition,Sneakers,Facebook,Limited Edition,38882,3266,715,7466.29,131374.55
+AD749,Originals Drop,Accessories,Google Ads,Seasonal Sale,174650,9122,2126,28484.02,412216.37
+AD750,Predator Drop,Apparel,Email,Influencer Collab,36257,1848,302,7252.45,45957.73
+AD751,NMD Collection,Accessories,Google Ads,Seasonal Sale,297852,3740,707,14843.56,167443.45
+AD752,Predator Launch,Sneakers,Facebook,Influencer Collab,539714,7062,761,27692.85,172537.61
+AD753,Stan Smith Restock,Accessories,Facebook,Limited Edition,232563,5575,1260,16084.17,262805.15
+AD754,NMD Edition,Accessories,Facebook,Flash Sale,84596,718,170,2533.4,26758.96
+AD755,Ultraboost Restock,Apparel,Facebook,Seasonal Sale,192992,3481,222,10342.69,55264.56
+AD756,Ultraboost Edition,Accessories,Email,Influencer Collab,63712,3266,165,11094.82,26785.91
+AD757,Originals Collection,Accessories,TikTok,Seasonal Sale,76662,2964,451,8962.53,102913.66
+AD758,Originals Collection,Apparel,YouTube,Flash Sale,182420,2950,519,10942.93,109050.3
+AD759,Originals Drop,Apparel,Google Ads,Flash Sale,248360,9044,1545,28634.72,294385.79
+AD760,NMD Restock,Accessories,Facebook,Seasonal Sale,118427,1787,382,6782.01,64975.68
+AD761,Stan Smith Drop,Sneakers,Google Ads,Limited Edition,249575,6062,1395,22299.94,253720.71
+AD762,Ultraboost Edition,Sneakers,Instagram,New Launch,148770,6720,2145,18409.93,418107.6
+AD763,Predator Collection,Accessories,YouTube,Limited Edition,114384,1455,318,5235.86,62044.67
+AD764,NMD Restock,Sneakers,Instagram,Limited Edition,81306,1216,318,4216.04,54515.18
+AD765,Originals Restock,Apparel,Google Ads,Limited Edition,29345,1846,443,5424.97,91463.08
+AD766,Originals Launch,Accessories,TikTok,New Launch,861157,25359,3316,99207.33,828087.95
+AD767,Yeezy Collection,Sneakers,Facebook,Flash Sale,175840,14572,5043,42025.9,1004973.9
+AD768,Stan Smith Drop,Accessories,Email,Influencer Collab,102983,3269,409,11903.53,88899.95
+AD769,Predator Drop,Apparel,YouTube,New Launch,216864,1145,61,3545.57,14922.34
+AD770,Predator Drop,Accessories,Instagram,Seasonal Sale,282898,25561,2144,93480.98,324395.16
+AD771,Ultraboost Edition,Sneakers,YouTube,New Launch,68688,2303,391,5749.2,83025.93
+AD772,NMD Collection,Accessories,YouTube,New Launch,125812,6923,963,24702.7,166496.55
+AD773,NMD Edition,Sneakers,Email,Influencer Collab,90355,11208,2042,34133.13,484754.56
+AD774,Stan Smith Edition,Sneakers,TikTok,Limited Edition,82108,5817,1073,14230.61,224410.06
+AD775,Predator Launch,Sneakers,YouTube,New Launch,361794,20393,7002,62300.46,1585858.13
+AD776,Yeezy Launch,Accessories,TikTok,New Launch,343407,15050,1401,43179.38,240270.89
+AD777,Ultraboost Launch,Apparel,Google Ads,Flash Sale,605344,11264,928,24409.71,207765.34
+AD778,Predator Restock,Apparel,TikTok,Flash Sale,293350,22682,5272,77635.95,1086469.83
+AD779,Stan Smith Launch,Apparel,Facebook,Influencer Collab,752120,83927,14732,332890.62,3655492.56
+AD780,Predator Restock,Apparel,YouTube,Flash Sale,263394,12222,793,25052.27,191573.98
+AD781,Stan Smith Restock,Accessories,YouTube,Flash Sale,91590,1589,90,5259.4,16639.44
+AD782,Ultraboost Restock,Apparel,Facebook,Influencer Collab,98357,2985,363,11590.11,56358.94
+AD783,Originals Restock,Accessories,Google Ads,Flash Sale,158043,12334,2290,25042.65,441934.19
+AD784,Yeezy Restock,Accessories,TikTok,Flash Sale,234253,11288,1320,30657.21,316689.61
+AD785,Predator Collection,Accessories,TikTok,Seasonal Sale,77447,3845,631,11156.63,117030.6
+AD786,Originals Collection,Sneakers,Google Ads,New Launch,116152,3008,500,10091.56,123173.52
+AD787,Ultraboost Collection,Sneakers,Email,Seasonal Sale,196564,25827,3109,80862.75,517977.85
+AD788,Yeezy Restock,Accessories,Google Ads,Seasonal Sale,93192,524,81,1319.49,15696.31
+AD789,NMD Edition,Sneakers,YouTube,Limited Edition,54057,2584,731,9261.07,148176.76
+AD790,Originals Edition,Apparel,Google Ads,Influencer Collab,257741,15374,3638,31131.08,826897.68
+AD791,Stan Smith Collection,Apparel,Instagram,New Launch,52884,4938,543,12599.78,92157.24
+AD792,Predator Launch,Accessories,Email,Limited Edition,654328,47588,2650,172750.96,492433.19
+AD793,Stan Smith Launch,Sneakers,Google Ads,Influencer Collab,887778,16692,3008,51393.23,738164.7
+AD794,Ultraboost Edition,Sneakers,Instagram,Flash Sale,27798,1202,143,4685.03,30153.89
+AD795,Ultraboost Edition,Sneakers,Google Ads,New Launch,166052,10983,1517,43339.23,367680.57
+AD796,Predator Drop,Apparel,Email,Influencer Collab,177134,10074,601,34475.16,103513.4
+AD797,Yeezy Drop,Accessories,YouTube,Seasonal Sale,139352,3068,566,10610.15,97780.8
+AD798,NMD Edition,Accessories,Email,Limited Edition,186912,27875,4012,64459.49,893857.77
+AD799,Stan Smith Drop,Accessories,Facebook,New Launch,118080,6938,569,22396.48,123335.57
+AD800,NMD Drop,Apparel,Instagram,Seasonal Sale,258335,15279,987,34022.24,172443.4
+AD801,Predator Drop,Accessories,Facebook,Seasonal Sale,140836,11502,2004,30422.24,339219.28
+AD802,Yeezy Launch,Sneakers,YouTube,Limited Edition,561157,27503,9289,94930.15,2081197.85
+AD803,NMD Drop,Apparel,Facebook,Flash Sale,196690,9778,2426,19891.2,595966.79
+AD804,Ultraboost Launch,Apparel,Email,Seasonal Sale,71618,4835,854,12485.72,164427.62
+AD805,NMD Launch,Apparel,TikTok,Seasonal Sale,224074,17899,3284,66144.57,619484.57
+AD806,Ultraboost Launch,Accessories,Google Ads,Seasonal Sale,196780,9658,958,29471.9,192639.06
+AD807,Originals Drop,Sneakers,TikTok,Limited Edition,189160,4834,607,16016.57,118390.05
+AD808,Originals Collection,Accessories,Email,Seasonal Sale,264970,23813,2597,72943.9,439532.8
+AD809,Stan Smith Drop,Sneakers,Google Ads,Influencer Collab,41045,1396,410,5168.08,73408.45
+AD810,Originals Drop,Sneakers,YouTube,New Launch,240044,12374,3354,35844.67,680332.63
+AD811,Predator Collection,Accessories,Google Ads,Limited Edition,264621,2476,155,7952.51,36153.42
+AD812,Stan Smith Launch,Sneakers,Email,Flash Sale,548707,76853,24829,176647.4,4924312.0
+AD813,Ultraboost Drop,Apparel,TikTok,Seasonal Sale,141994,5252,1216,14626.36,220682.14
+AD814,Stan Smith Launch,Apparel,Google Ads,Seasonal Sale,268046,10459,2198,24407.6,389090.04
+AD815,NMD Collection,Accessories,Google Ads,Flash Sale,226019,7629,1073,25446.7,185795.0
+AD816,Ultraboost Collection,Apparel,Facebook,New Launch,33247,971,151,2743.9,37173.77
+AD817,Yeezy Launch,Apparel,TikTok,Limited Edition,736264,57331,4251,129012.75,933220.62
+AD818,Stan Smith Collection,Sneakers,Google Ads,Seasonal Sale,113869,1093,298,3062.38,66998.73
+AD819,Yeezy Restock,Sneakers,Email,Flash Sale,212026,11151,2569,30332.97,525387.14
+AD820,Predator Edition,Sneakers,TikTok,Flash Sale,32196,1138,153,3941.57,31188.88
+AD821,Yeezy Restock,Apparel,Google Ads,New Launch,65640,3891,635,12645.31,136408.08
+AD822,Originals Edition,Sneakers,Google Ads,New Launch,29594,2183,238,6069.33,39742.23
+AD823,Originals Restock,Accessories,Email,New Launch,239129,17143,1358,56154.9,308723.15
+AD824,Ultraboost Collection,Sneakers,Facebook,Seasonal Sale,156567,15237,4894,51523.54,1102085.17
+AD825,Predator Collection,Sneakers,TikTok,Limited Edition,50888,3513,747,12738.52,148772.06
+AD826,Predator Drop,Accessories,Google Ads,Seasonal Sale,33831,1579,99,5307.1,20498.63
+AD827,Ultraboost Collection,Sneakers,TikTok,Limited Edition,26868,1412,289,4271.45,53488.19
+AD828,Originals Collection,Sneakers,Facebook,Limited Edition,14280,841,163,2288.0,33247.07
+AD829,Originals Restock,Accessories,Facebook,New Launch,250941,5929,855,14643.03,175196.82
+AD830,Originals Drop,Accessories,Instagram,Limited Edition,89299,3124,210,9104.93,50583.74
+AD831,Predator Drop,Sneakers,TikTok,Seasonal Sale,140909,5100,1044,10648.4,206978.49
+AD832,Originals Edition,Accessories,Email,Limited Edition,222664,9765,1233,37546.62,263512.16
+AD833,Originals Edition,Accessories,Instagram,Limited Edition,175491,10473,603,35352.05,147924.4
+AD834,Predator Restock,Sneakers,Email,New Launch,62010,5058,1012,17078.97,238930.42
+AD835,Ultraboost Drop,Accessories,Email,New Launch,136214,20212,3606,74843.11,811305.49
+AD836,Ultraboost Drop,Accessories,Instagram,Limited Edition,34574,2174,413,6810.12,71011.38
+AD837,Stan Smith Launch,Sneakers,Email,New Launch,516717,36533,4298,88771.93,821504.8
+AD838,NMD Launch,Apparel,Instagram,Influencer Collab,901633,107766,16723,254105.36,3786032.97
+AD839,Originals Edition,Accessories,Facebook,Influencer Collab,87961,1323,287,3729.32,45533.14
+AD840,Ultraboost Edition,Sneakers,TikTok,Influencer Collab,173110,2326,804,8704.69,180351.11
+AD841,Predator Edition,Apparel,Instagram,New Launch,243975,27905,4532,100001.13,1098829.52
+AD842,Ultraboost Edition,Sneakers,YouTube,Seasonal Sale,268682,20544,5720,48057.52,1200361.46
+AD843,Originals Launch,Accessories,Google Ads,Flash Sale,444842,29841,3066,62369.11,729431.78
+AD844,Stan Smith Launch,Apparel,TikTok,New Launch,940374,27970,4319,71860.05,991891.26
+AD845,Predator Collection,Sneakers,Google Ads,Influencer Collab,218755,15074,1641,50031.54,313592.28
+AD846,Stan Smith Restock,Sneakers,TikTok,Flash Sale,235110,17482,5254,36556.31,1106002.03
+AD847,Originals Launch,Accessories,Facebook,New Launch,995224,11543,893,35026.16,210513.58
+AD848,Ultraboost Edition,Accessories,YouTube,Influencer Collab,94797,7456,967,15343.11,152172.31
+AD849,Predator Edition,Accessories,Facebook,Seasonal Sale,68834,6280,965,24093.61,146545.3
+AD850,Yeezy Launch,Apparel,Instagram,New Launch,744687,79018,13587,177006.96,3061587.78
+AD851,Predator Collection,Sneakers,Instagram,Influencer Collab,149733,1751,577,6587.37,131420.78
+AD852,Yeezy Drop,Accessories,Instagram,Flash Sale,66953,5657,1372,20725.33,339824.08
+AD853,Originals Launch,Apparel,Instagram,New Launch,690007,56161,9623,175867.03,2084493.98
+AD854,Ultraboost Launch,Sneakers,Google Ads,Influencer Collab,959302,68437,20060,248569.76,4931152.09
+AD855,Ultraboost Drop,Sneakers,YouTube,Limited Edition,132970,3634,923,13288.45,208853.0
+AD856,Yeezy Edition,Sneakers,Instagram,Flash Sale,119808,5867,753,19413.52,149374.78
+AD857,NMD Drop,Apparel,Facebook,Flash Sale,150360,14042,1299,40900.14,298424.6
+AD858,NMD Edition,Sneakers,TikTok,Seasonal Sale,34910,1922,255,7187.81,47381.48
+AD859,Predator Edition,Sneakers,Instagram,New Launch,231932,25266,7832,60803.14,1399475.75
+AD860,NMD Launch,Sneakers,Facebook,Seasonal Sale,740381,64334,15026,177647.58,2832669.92
+AD861,Predator Drop,Accessories,Email,New Launch,69953,3289,694,8534.81,153789.81
+AD862,Originals Restock,Accessories,TikTok,Flash Sale,132601,8400,624,27987.39,122388.09
+AD863,Ultraboost Restock,Apparel,Email,Flash Sale,240128,20287,1638,61291.45,251031.75
+AD864,NMD Drop,Accessories,Instagram,Seasonal Sale,271644,7061,1349,25224.36,297435.9
+AD865,Originals Edition,Sneakers,YouTube,New Launch,70034,3221,818,6729.24,144400.85
+AD866,Ultraboost Launch,Apparel,Facebook,Seasonal Sale,870050,10330,2269,23353.19,553484.6
+AD867,Predator Launch,Sneakers,TikTok,Limited Edition,507624,19809,5474,76876.34,1319972.46
+AD868,NMD Collection,Apparel,Email,New Launch,226897,11750,1935,43335.71,371790.92
+AD869,Predator Collection,Apparel,YouTube,Influencer Collab,39331,2205,149,5220.93,35957.4
+AD870,Predator Edition,Apparel,Facebook,Seasonal Sale,269026,8815,1466,19565.92,281659.18
+AD871,Predator Collection,Accessories,Google Ads,Influencer Collab,67904,1139,217,4306.1,40956.64
+AD872,Originals Launch,Apparel,Instagram,Seasonal Sale,906523,18006,3888,36711.42,744877.19
+AD873,Stan Smith Restock,Apparel,TikTok,Limited Edition,67733,4867,334,15776.62,69092.07
+AD874,Stan Smith Collection,Sneakers,TikTok,Seasonal Sale,150345,6597,1322,16580.93,291041.33
+AD875,Stan Smith Launch,Accessories,Facebook,Limited Edition,669820,80168,18484,214829.32,3028972.39
+AD876,NMD Launch,Sneakers,YouTube,Flash Sale,631727,35784,7284,84378.03,1230556.65
+AD877,Originals Edition,Sneakers,Email,Flash Sale,125277,11222,2111,34329.61,455527.53
+AD878,Ultraboost Launch,Sneakers,Email,Limited Edition,749824,50651,13228,168443.27,2841590.08
+AD879,Stan Smith Restock,Accessories,Facebook,Flash Sale,148196,12762,2473,41446.68,597812.2
+AD880,Ultraboost Restock,Apparel,YouTube,Flash Sale,49134,2927,419,8677.41,89759.05
+AD881,Stan Smith Restock,Apparel,Instagram,Limited Edition,41968,3867,198,14157.52,31029.51
+AD882,NMD Restock,Accessories,YouTube,Flash Sale,245995,14448,841,34254.76,161600.59
+AD883,NMD Drop,Sneakers,Google Ads,Limited Edition,119870,1610,265,5808.52,45399.25
+AD884,Ultraboost Collection,Accessories,Facebook,Flash Sale,166513,16260,2037,43675.27,416825.89
+AD885,Yeezy Drop,Sneakers,Instagram,New Launch,165803,19199,3903,46940.25,741238.93
+AD886,Ultraboost Collection,Apparel,TikTok,New Launch,117613,9189,803,24259.47,136094.38
+AD887,Yeezy Edition,Apparel,Email,Influencer Collab,124889,12670,3068,33790.07,669190.83
+AD888,Predator Edition,Apparel,Google Ads,Influencer Collab,96810,3662,736,11909.35,165536.67
+AD889,Originals Drop,Sneakers,YouTube,Flash Sale,146040,3729,1156,8738.79,190310.69
+AD890,NMD Restock,Accessories,TikTok,New Launch,228084,2984,295,9221.5,70446.25
+AD891,Ultraboost Launch,Accessories,Instagram,Limited Edition,476862,29841,5090,61592.55,1219034.07
+AD892,Predator Edition,Apparel,Instagram,Limited Edition,298364,3022,625,8582.8,146502.54
+AD893,Originals Drop,Apparel,Email,New Launch,38272,3593,829,8307.47,181680.75
+AD894,NMD Drop,Sneakers,Google Ads,Limited Edition,244819,5809,758,18153.56,141457.68
+AD895,Originals Drop,Accessories,Instagram,New Launch,100105,4606,678,13396.39,140097.75
+AD896,Predator Collection,Accessories,YouTube,Seasonal Sale,139080,10942,1356,42675.6,276715.55
+AD897,Ultraboost Restock,Apparel,TikTok,New Launch,278859,18240,2830,52607.95,431842.01
+AD898,NMD Launch,Sneakers,Facebook,Influencer Collab,800825,74182,25864,194235.22,5517215.34
+AD899,NMD Drop,Sneakers,Google Ads,Seasonal Sale,34879,2337,714,8391.49,166997.09
+AD900,Stan Smith Drop,Accessories,TikTok,Influencer Collab,253364,15915,2843,46802.57,567451.99
+AD901,Originals Collection,Accessories,YouTube,New Launch,49415,3279,618,10706.33,146238.86
+AD902,NMD Drop,Apparel,Facebook,Influencer Collab,283673,11189,2567,33746.48,526996.59
+AD903,Ultraboost Restock,Sneakers,TikTok,New Launch,295669,21099,5210,48842.8,1117945.91
+AD904,Predator Edition,Sneakers,YouTube,Limited Edition,114628,8232,1857,25196.27,424975.06
+AD905,Yeezy Restock,Accessories,Email,Seasonal Sale,142039,10550,1338,37212.8,303334.92
+AD906,Ultraboost Collection,Sneakers,Instagram,Seasonal Sale,277222,17078,1962,64263.86,349068.67
+AD907,NMD Launch,Apparel,Email,Influencer Collab,493264,42362,8652,129320.55,1513473.81
+AD908,Ultraboost Collection,Accessories,Email,Seasonal Sale,74364,3225,197,7364.83,41110.67
+AD909,Predator Launch,Apparel,Email,Seasonal Sale,801725,108926,6968,253686.64,1542302.98
+AD910,Originals Drop,Apparel,Facebook,Flash Sale,288049,23436,3219,56066.72,651473.49
+AD911,Yeezy Drop,Apparel,Instagram,Limited Edition,57782,5216,1111,18263.22,252376.1
+AD912,Ultraboost Restock,Sneakers,Email,Flash Sale,141451,2927,730,7460.69,157764.68
+AD913,NMD Restock,Accessories,Facebook,New Launch,23842,1184,189,3892.53,37064.22
+AD914,Yeezy Edition,Accessories,TikTok,Flash Sale,191501,9719,1700,25085.6,322151.66
+AD915,NMD Edition,Accessories,Instagram,Influencer Collab,70925,1549,159,4864.8,30396.13
+AD916,Stan Smith Drop,Sneakers,Email,Flash Sale,260964,35255,5241,122785.56,1067895.67
+AD917,Ultraboost Launch,Sneakers,Facebook,Flash Sale,832427,15736,3392,51523.09,613423.09
+AD918,Ultraboost Launch,Accessories,Email,Influencer Collab,62958,4316,952,13497.15,205187.44
+AD919,Yeezy Restock,Apparel,Google Ads,New Launch,77303,4357,822,11392.25,192146.26
+AD920,Stan Smith Restock,Accessories,Google Ads,Seasonal Sale,280644,20577,3162,65302.59,482849.58
+AD921,NMD Edition,Accessories,Email,Influencer Collab,215603,9917,1895,27246.53,447573.63
+AD922,Originals Drop,Apparel,Instagram,Flash Sale,26899,3221,348,11857.01,55454.38
+AD923,Originals Drop,Apparel,Facebook,Limited Edition,261809,24634,2172,66936.15,422766.97
+AD924,Ultraboost Edition,Accessories,Google Ads,Influencer Collab,278244,18843,1611,60169.83,364745.09
+AD925,Yeezy Restock,Sneakers,YouTube,Flash Sale,189600,10746,2511,25295.15,549900.72
+AD926,NMD Collection,Apparel,Email,Seasonal Sale,119435,5811,1367,13731.37,209039.95
+AD927,NMD Edition,Sneakers,Facebook,Limited Edition,202594,21099,4389,62228.1,992402.53
+AD928,Originals Restock,Accessories,Instagram,Influencer Collab,192331,3696,188,7411.52,40207.41
+AD929,Originals Edition,Sneakers,TikTok,New Launch,139079,2884,545,8403.04,89974.72
+AD930,Yeezy Drop,Apparel,Google Ads,Limited Edition,280446,19211,1674,42788.88,366671.84
+AD931,NMD Collection,Apparel,TikTok,New Launch,11548,102,17,230.16,2714.13
+AD932,Predator Restock,Accessories,TikTok,Seasonal Sale,219151,15703,3172,46272.89,574704.04
+AD933,Stan Smith Collection,Accessories,Instagram,New Launch,200146,13010,1045,44319.72,182574.97
+AD934,Stan Smith Launch,Accessories,Email,Limited Edition,899957,126573,9043,455746.14,1423573.65
+AD935,Stan Smith Collection,Sneakers,TikTok,New Launch,41783,3284,333,7485.46,75457.48
+AD936,Stan Smith Collection,Accessories,Email,Flash Sale,288133,41806,6585,161680.35,1562948.41
+AD937,Originals Collection,Apparel,Google Ads,Flash Sale,84331,1402,108,5516.59,21415.63
+AD938,Originals Drop,Apparel,Email,Seasonal Sale,163207,5126,917,10542.27,149526.02
+AD939,Yeezy Collection,Accessories,Facebook,Seasonal Sale,12770,662,98,1638.52,16126.64
+AD940,NMD Restock,Accessories,Facebook,Flash Sale,239705,18822,4334,42756.35,704419.06
+AD941,Originals Launch,Accessories,Instagram,New Launch,745173,31124,4919,121183.9,1092179.74
+AD942,Stan Smith Edition,Accessories,Google Ads,New Launch,159329,2318,360,5606.78,78236.06
+AD943,NMD Edition,Apparel,Facebook,Limited Edition,32133,3834,783,8335.3,130040.68
+AD944,Ultraboost Restock,Apparel,Instagram,Limited Edition,246844,2073,479,7395.36,104313.45
+AD945,NMD Collection,Accessories,Facebook,Influencer Collab,170511,14768,917,30882.39,138576.31
+AD946,Yeezy Launch,Accessories,TikTok,Limited Edition,392279,29262,4585,104170.03,1129267.81
+AD947,Ultraboost Edition,Apparel,Facebook,Seasonal Sale,20420,1751,280,5965.57,47414.83
+AD948,Predator Launch,Accessories,Instagram,Limited Edition,370993,32382,2832,103586.67,604286.21
+AD949,Yeezy Drop,Sneakers,Google Ads,New Launch,59934,2395,305,8824.96,59569.17
+AD950,Stan Smith Collection,Sneakers,Instagram,New Launch,195792,20984,2380,66805.22,363079.78
+AD951,Yeezy Restock,Accessories,Instagram,Seasonal Sale,78198,9193,667,26272.06,165674.98
+AD952,Stan Smith Launch,Accessories,Instagram,Flash Sale,190080,13539,866,42143.91,179494.88
+AD953,Yeezy Drop,Accessories,YouTube,New Launch,252020,17574,2406,35605.3,597530.5
+AD954,Originals Collection,Accessories,YouTube,Limited Edition,110293,3168,390,7756.2,61216.07
+AD955,Ultraboost Launch,Sneakers,Instagram,Limited Edition,248371,7980,1423,24045.95,276738.19
+AD956,Yeezy Launch,Apparel,Google Ads,Influencer Collab,143325,3946,943,11664.76,156728.83
+AD957,Originals Edition,Accessories,YouTube,Flash Sale,42958,608,118,2001.77,29223.34
+AD958,Ultraboost Drop,Apparel,Google Ads,Seasonal Sale,218329,11647,1475,29101.84,321289.6
+AD959,Predator Collection,Apparel,Instagram,Flash Sale,263207,9521,1023,26662.4,194233.79
+AD960,Stan Smith Collection,Sneakers,TikTok,Flash Sale,283984,16379,2438,39208.71,513464.72
+AD961,Predator Restock,Sneakers,Facebook,Flash Sale,148798,2591,858,9228.69,147089.18
+AD962,NMD Edition,Accessories,Instagram,Influencer Collab,145984,5442,810,15255.88,168856.0
+AD963,Predator Collection,Accessories,Email,Limited Edition,184970,18238,1320,62413.01,286062.07
+AD964,NMD Collection,Sneakers,YouTube,Influencer Collab,203949,10702,2217,24283.32,432605.34
+AD965,Yeezy Collection,Sneakers,YouTube,Flash Sale,281273,21397,4172,83899.51,922046.53
+AD966,Ultraboost Launch,Apparel,Facebook,Influencer Collab,716145,64577,11319,167876.5,1921827.24
+AD967,Predator Collection,Sneakers,Google Ads,New Launch,208907,3040,936,11487.45,156964.35
+AD968,Stan Smith Collection,Sneakers,Instagram,Flash Sale,11138,508,164,1301.63,33650.01
+AD969,Yeezy Collection,Sneakers,YouTube,Influencer Collab,245193,1469,321,3667.8,64942.35
+AD970,Predator Drop,Accessories,TikTok,Limited Edition,209265,5455,1302,20518.04,211559.26
+AD971,Predator Edition,Accessories,TikTok,Influencer Collab,168008,4808,477,15794.58,99324.63
+AD972,Yeezy Drop,Accessories,YouTube,Flash Sale,118348,5055,898,14715.93,184523.3
+AD973,Stan Smith Edition,Accessories,Facebook,Seasonal Sale,90014,3538,550,11071.78,137446.92
+AD974,Stan Smith Restock,Accessories,TikTok,Influencer Collab,116120,3406,851,11661.08,210193.37
+AD975,Ultraboost Drop,Apparel,Facebook,New Launch,202937,19217,1493,42280.82,272134.7
+AD976,Predator Drop,Accessories,Email,New Launch,237808,26514,4259,80044.7,831372.78
+AD977,Originals Edition,Apparel,Facebook,New Launch,206562,17654,2870,36594.7,693340.81
+AD978,NMD Restock,Accessories,TikTok,Limited Edition,290632,11337,1878,24710.84,447351.56
+AD979,Originals Restock,Sneakers,Instagram,Seasonal Sale,21970,1954,683,6391.24,118732.08
+AD980,Yeezy Restock,Apparel,Facebook,Flash Sale,77518,1226,62,4095.81,14662.97
+AD981,Predator Restock,Sneakers,TikTok,Flash Sale,172182,3301,558,8015.48,134059.41
+AD982,Stan Smith Restock,Apparel,Google Ads,Flash Sale,238768,6852,1093,23669.2,178688.93
+AD983,Originals Restock,Accessories,Email,Limited Edition,199447,10109,1107,35019.9,255679.59
+AD984,Yeezy Collection,Apparel,Facebook,Seasonal Sale,157337,8472,557,22401.03,121172.34
+AD985,NMD Launch,Sneakers,Google Ads,Limited Edition,73968,1109,294,2280.77,70954.34
+AD986,Stan Smith Collection,Apparel,TikTok,Seasonal Sale,272584,3991,727,10197.4,146572.25
+AD987,Stan Smith Drop,Apparel,Facebook,Limited Edition,119407,8429,823,18377.9,124072.49
+AD988,Predator Collection,Accessories,YouTube,Flash Sale,108551,7306,477,29070.33,103356.53
+AD989,Originals Launch,Accessories,TikTok,Seasonal Sale,273602,18237,1026,45679.58,211926.9
+AD990,Ultraboost Edition,Sneakers,TikTok,Limited Edition,11480,400,69,1404.44,15544.31
+AD991,Ultraboost Drop,Sneakers,TikTok,Flash Sale,254796,7715,2302,28628.37,433208.13
+AD992,Originals Collection,Apparel,YouTube,Influencer Collab,272048,18212,4377,50802.01,1087980.6
+AD993,NMD Restock,Sneakers,TikTok,Limited Edition,152956,11709,1953,38842.22,437602.49
+AD994,Predator Edition,Apparel,YouTube,Limited Edition,198262,1426,155,5426.52,33019.18
+AD995,Stan Smith Restock,Sneakers,TikTok,Limited Edition,69817,4474,1055,15632.93,188198.02
+AD996,Yeezy Drop,Sneakers,Email,Limited Edition,159190,14097,3496,45968.76,536125.31
+AD997,NMD Restock,Apparel,Instagram,New Launch,47332,814,102,2688.32,20356.28
+AD998,Stan Smith Restock,Apparel,Instagram,Seasonal Sale,265037,8051,1264,17856.72,292253.81
+AD999,Stan Smith Launch,Accessories,Instagram,Influencer Collab,592928,36241,7339,130111.57,1618112.55
+AD1000,Originals Collection,Sneakers,TikTok,Flash Sale,122840,6835,1317,18389.76,285744.44
